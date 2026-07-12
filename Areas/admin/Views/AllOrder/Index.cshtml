@@ -1,0 +1,61 @@
+﻿
+
+<div class="orders-page">
+  <div class="page-header">
+    <h2 class="page-title">All Orders</h2>
+  </div>
+
+  <div class="card-panel">
+    <div class="dt-top-bar">
+      <div class="dt-show-wrap">
+        Show
+        <select id="tblData_length" aria-controls="tblData">
+          <option value="10">10</option>
+          <option value="25">25</option>
+          <option value="50">50</option>
+          <option value="100">100</option>
+        </select>
+        entries
+      </div>
+      <div class="dt-search-wrap">
+        Search: <input type="search" id="tblData_search" placeholder="" aria-label="Search orders" />
+      </div>
+    </div>
+
+    <table id="tblData" class="orders-tbl">
+      <thead>
+        <tr>
+          <th>Order ID</th>
+          <th>Date</th>
+          <th>Name</th>
+          <th>Total Amount</th>
+          <th></th>
+        </tr>
+      </thead>
+    </table>
+  </div>
+</div>
+
+@section Scripts {
+  <script src="~/js/AllORDER.js"></script>
+  <style>
+  .orders-page { padding: 2rem; }
+  .orders-page .page-header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 1.75rem; }
+  .orders-page .page-title { font-family: 'Georgia', 'Times New Roman', serif; font-size: 2.1rem; font-weight: 400; color: #2a2a28; letter-spacing: -0.5px; margin: 0; }
+  .orders-page .card-panel { background: #ffffff; border-radius: 18px; padding: 1.75rem 1.75rem 2rem; box-shadow: 0 4px 24px rgba(0,0,0,0.07); }
+  .orders-page .dt-top-bar { display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5rem; flex-wrap: wrap; gap: .75rem; }
+  .orders-page .dt-show-wrap { display: flex; align-items: center; gap: 8px; font-size: .9rem; color: #666; }
+  .orders-page .dt-show-wrap select { border: 1.5px solid #e0e0e0; border-radius: 8px; padding: 5px 10px; font-size: .9rem; color: #333; background: #fff; cursor: pointer; }
+  .orders-page .dt-search-wrap { display: flex; align-items: center; gap: 8px; font-size: .9rem; color: #666; }
+  .orders-page .dt-search-wrap input { border: 1.5px solid #e0e0e0; border-radius: 8px; padding: 6px 14px; font-size: .9rem; color: #333; outline: none; width: 220px; transition: border-color .2s; }
+  .orders-page .dt-search-wrap input:focus { border-color: #999; }
+  .orders-page table.orders-tbl { width: 100%; border-collapse: collapse; }
+  .orders-page table.orders-tbl thead th { font-size: .72rem; font-weight: 700; letter-spacing: .09em; text-transform: uppercase; color: #aaa; padding: .55rem 1.1rem; border-bottom: 1.5px solid #f0f0f0; text-align: left; white-space: nowrap; }
+  .orders-page table.orders-tbl tbody tr { border-bottom: 1px solid #f5f5f3; transition: background .15s; }
+  .orders-page table.orders-tbl tbody tr:last-child { border-bottom: none; }
+  .orders-page table.orders-tbl tbody tr:hover { background: #fafaf8; }
+  .orders-page table.orders-tbl tbody td { padding: 1.05rem 1.1rem; font-size: .92rem; color: #2a2a28; vertical-align: middle; }
+  .orders-page .btn-action { display: inline-block; background: #3a8c3f; color: #fff; border: none; border-radius: 9px; padding: .42rem 1.1rem; font-size: .8rem; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; cursor: pointer; text-decoration: none; transition: background .2s; }
+  .orders-page .btn-action:hover { background: #2d6e31; color: #fff; text-decoration: none; }
+</style>
+}

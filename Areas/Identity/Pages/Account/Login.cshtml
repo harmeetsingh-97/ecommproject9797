@@ -1,0 +1,252 @@
+﻿@page
+@model LoginModel
+
+@{
+    ViewData["Title"] = "Log in";
+}
+
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=DM+Sans:wght@400;500&display=swap" rel="stylesheet" />
+
+<style>
+    .reg-page {
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 48px 16px;
+        position: relative;
+        z-index: 1;
+    }
+    .reg-card {
+        background: #fff;
+        border: 1px solid #e8e8e8;
+        border-radius: 16px;
+        padding: 40px 40px 36px;
+        width: 100%;
+        max-width: 460px;
+        box-shadow: 0 8px 40px rgba(0,0,0,0.07);
+    }
+    .reg-card h1 {
+        font-family: 'Playfair Display', serif;
+        font-size: 26px;
+        font-weight: 600;
+        color: #1a1a1a;
+        margin-bottom: 4px;
+    }
+    .reg-sub {
+        font-family: 'DM Sans', sans-serif;
+        font-size: 13px;
+        color: #888;
+        margin-bottom: 28px;
+    }
+    .reg-divider {
+        height: 1px;
+        background: #f0f0f0;
+        margin-bottom: 24px;
+    }
+    .field-group {
+        margin-bottom: 16px;
+    }
+    .field-group label {
+        display: block;
+        font-family: 'DM Sans', sans-serif;
+        font-size: 11px;
+        font-weight: 500;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+        color: #888;
+        margin-bottom: 6px;
+    }
+    .field-group input[type="email"],
+    .field-group input[type="password"],
+    .field-group input[type="text"] {
+        width: 100%;
+        padding: 10px 14px;
+        font-family: 'DM Sans', sans-serif;
+        font-size: 14px;
+        color: #1a1a1a;
+        background: #fafafa;
+        border: 1px solid #e0e0e0;
+        border-radius: 8px;
+        outline: none;
+        transition: border-color 0.2s, background 0.2s;
+    }
+    .field-group input:focus {
+        border-color: #1a1a1a;
+        background: #fff;
+    }
+    .field-group .text-danger {
+        font-family: 'DM Sans', sans-serif;
+        font-size: 11px;
+        color: #e53935;
+        margin-top: 4px;
+        display: block;
+    }
+    .remember-row {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        margin-bottom: 20px;
+    }
+    .remember-row input[type="checkbox"] {
+        width: 15px;
+        height: 15px;
+        accent-color: #1a1a1a;
+        cursor: pointer;
+    }
+    .remember-row label {
+        font-family: 'DM Sans', sans-serif;
+        font-size: 13px;
+        color: #555;
+        cursor: pointer;
+        margin: 0;
+    }
+    .reg-submit {
+        width: 100%;
+        padding: 12px;
+        background: #1a1a1a;
+        color: #fff;
+        font-family: 'DM Sans', sans-serif;
+        font-size: 14px;
+        font-weight: 500;
+        border: none;
+        border-radius: 50px;
+        cursor: pointer;
+        letter-spacing: 0.02em;
+        transition: background 0.2s;
+    }
+    .reg-submit:hover { background: #333; }
+    .validation-summary {
+        background: #fff5f5;
+        border: 1px solid #fecaca;
+        border-radius: 8px;
+        padding: 10px 14px;
+        font-family: 'DM Sans', sans-serif;
+        font-size: 13px;
+        color: #e53935;
+        margin-bottom: 20px;
+    }
+    .aux-links {
+        margin-top: 20px;
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+        padding-top: 18px;
+        border-top: 1px solid #f0f0f0;
+    }
+    .aux-links a {
+        font-family: 'DM Sans', sans-serif;
+        font-size: 13px;
+        color: #888;
+        text-decoration: none;
+        transition: color 0.15s;
+    }
+    .aux-links a:hover { color: #1a1a1a; }
+    .reg-login-link {
+        text-align: center;
+        font-family: 'DM Sans', sans-serif;
+        font-size: 13px;
+        color: #888;
+        margin-top: 18px;
+    }
+    .reg-login-link a {
+        color: #1a1a1a;
+        font-weight: 500;
+        text-decoration: none;
+    }
+    .reg-login-link a:hover { text-decoration: underline; }
+    .section-label {
+        font-family: 'DM Sans', sans-serif;
+        font-size: 11px;
+        font-weight: 500;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: #bbb;
+        margin: 24px 0 14px;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+    .section-label::after {
+        content: '';
+        flex: 1;
+        height: 1px;
+        background: #f0f0f0;
+    }
+    .ext-btn {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        padding: 9px 18px;
+        font-family: 'DM Sans', sans-serif;
+        font-size: 13px;
+        font-weight: 500;
+        color: #1a1a1a;
+        background: #fafafa;
+        border: 1px solid #e0e0e0;
+        border-radius: 50px;
+        cursor: pointer;
+        transition: background 0.2s, border-color 0.2s;
+        margin-right: 8px;
+        margin-bottom: 8px;
+    }
+    .ext-btn:hover { background: #f0f0f0; border-color: #ccc; }
+</style>
+
+<div class="reg-page">
+    <div class="reg-card">
+        <h1>Welcome back</h1>
+        <p class="reg-sub">Sign in to your account to continue</p>
+        <div class="reg-divider"></div>
+
+        <form id="account" method="post">
+
+            <div asp-validation-summary="ModelOnly" class="validation-summary" role="alert"></div>
+
+            <div class="field-group">
+                <label asp-for="Input.Email">Email address</label>
+                <input asp-for="Input.Email" autocomplete="username" placeholder="name@example.com" />
+                <span asp-validation-for="Input.Email" class="text-danger"></span>
+            </div>
+
+            <div class="field-group">
+                <label asp-for="Input.Password">Password</label>
+                <input asp-for="Input.Password" autocomplete="current-password" placeholder="Your password" />
+                <span asp-validation-for="Input.Password" class="text-danger"></span>
+            </div>
+
+            <div class="remember-row">
+                <input asp-for="Input.RememberMe" type="checkbox" />
+                <label asp-for="Input.RememberMe">@Html.DisplayNameFor(m => m.Input.RememberMe)</label>
+            </div>
+
+            <button id="login-submit" type="submit" class="reg-submit">Sign in →</button>
+
+            <div class="aux-links">
+                <a id="forgot-password" asp-page="./ForgotPassword">Forgot your password?</a>
+                <a id="resend-confirmation" asp-page="./ResendEmailConfirmation">Resend email confirmation</a>
+            </div>
+        </form>
+
+        <p class="reg-login-link">Don't have an account? <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl">Register</a></p>
+
+        @if ((Model.ExternalLogins?.Count ?? 0) > 0)
+        {
+            <span class="section-label">Or continue with</span>
+            <form id="external-account" asp-page="./ExternalLogin" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+                @foreach (var provider in Model.ExternalLogins!)
+                {
+                    <button type="submit" class="ext-btn" name="provider" value="@provider.Name"
+                            title="Log in using your @provider.DisplayName account">
+                        <i class="fab fa-@provider.DisplayName.ToLower()"></i>
+                        @provider.DisplayName
+                    </button>
+                }
+            </form>
+        }
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

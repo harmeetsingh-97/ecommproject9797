@@ -1,0 +1,64 @@
+﻿@model ecomm_project.models.ViewModels.DateWiseOrderViewModel
+
+<div class="container mt-4">
+    <h3>Date Wise Orders</h3>
+    <hr />
+
+    <form asp-action="DateWiseOrders" method="get" class="row g-3 align-items-end">
+        <div class="col-md-3">
+            <label class="form-label">From Date</label>
+            <input type="date" name="fromDate" value="@Model.FromDate?.ToString("yyyy-MM-dd")" class="form-control" />
+        </div>
+
+        <div class="col-md-3">
+            <label class="form-label">To Date</label>
+            <input type="date" name="toDate" value="@Model.ToDate?.ToString("yyyy-MM-dd")" class="form-control" />
+        </div>
+
+        <div class="col-md-3">
+            <label class="form-label">Status</label>
+            <select name="status" class="form-select">
+                <option value="">-- Select Status --</option>
+                <option value="Pending">Pending</option>
+                <option value="Approved">Approved</option>
+            </select>
+        </div>
+
+        <div class="col-md-3">
+            <button type="submit" class="btn btn-primary w-100">Search</button>
+        </div>
+    </form>
+
+    <div class="mt-5">
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>Order ID</th>
+                    <th>Date</th>
+                    <th>Customer</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.Orders.Any())
+                {
+                    foreach (var item in Model.Orders)
+                    {
+                        <tr>
+                            <td>@item.Id</td>
+                            <td>@item.OrderDate.ToShortDateString()</td>
+                            <td>@item.Name</td>
+                            <td>@item.PaymentStatus</td>
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="4" class="text-center">No orders found for the selected dates.</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

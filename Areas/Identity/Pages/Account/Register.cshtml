@@ -1,0 +1,252 @@
+﻿@page
+@model RegisterModel
+@using ecomm_utility
+
+@{
+    ViewData["Title"] = "Register";
+}
+
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=DM+Sans:wght@400;500&display=swap" rel="stylesheet" />
+
+<style>
+    .reg-page {
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 48px 16px;
+        position: relative;
+        z-index: 1;
+    }
+    .reg-card {
+        background: #fff;
+        border: 1px solid #e8e8e8;
+        border-radius: 16px;
+        padding: 40px 40px 36px;
+        width: 100%;
+        max-width: 520px;
+        box-shadow: 0 8px 40px rgba(0,0,0,0.07);
+    }
+    .reg-card h1 {
+        font-family: 'Playfair Display', serif;
+        font-size: 26px;
+        font-weight: 600;
+        color: #1a1a1a;
+        margin-bottom: 4px;
+    }
+    .reg-card .reg-sub {
+        font-family: 'DM Sans', sans-serif;
+        font-size: 13px;
+        color: #888;
+        margin-bottom: 28px;
+    }
+    .reg-divider {
+        height: 1px;
+        background: #f0f0f0;
+        margin-bottom: 24px;
+    }
+    .field-group {
+        margin-bottom: 16px;
+    }
+    .field-group label {
+        display: block;
+        font-family: 'DM Sans', sans-serif;
+        font-size: 11px;
+        font-weight: 500;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+        color: #888;
+        margin-bottom: 6px;
+    }
+    .field-group input,
+    .field-group select {
+        width: 100%;
+        padding: 10px 14px;
+        font-family: 'DM Sans', sans-serif;
+        font-size: 14px;
+        color: #1a1a1a;
+        background: #fafafa;
+        border: 1px solid #e0e0e0;
+        border-radius: 8px;
+        outline: none;
+        transition: border-color 0.2s, background 0.2s;
+        appearance: none;
+    }
+    .field-group input:focus,
+    .field-group select:focus {
+        border-color: #1a1a1a;
+        background: #fff;
+    }
+    .field-group .text-danger {
+        font-family: 'DM Sans', sans-serif;
+        font-size: 11px;
+        color: #e53935;
+        margin-top: 4px;
+        display: block;
+    }
+    .fields-row {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 12px;
+    }
+    .reg-submit {
+        width: 100%;
+        padding: 12px;
+        background: #1a1a1a;
+        color: #fff;
+        font-family: 'DM Sans', sans-serif;
+        font-size: 14px;
+        font-weight: 500;
+        border: none;
+        border-radius: 50px;
+        cursor: pointer;
+        margin-top: 8px;
+        letter-spacing: 0.02em;
+        transition: background 0.2s;
+    }
+    .reg-submit:hover { background: #333; }
+    .reg-login-link {
+        text-align: center;
+        font-family: 'DM Sans', sans-serif;
+        font-size: 13px;
+        color: #888;
+        margin-top: 18px;
+    }
+    .reg-login-link a {
+        color: #1a1a1a;
+        font-weight: 500;
+        text-decoration: none;
+    }
+    .reg-login-link a:hover { text-decoration: underline; }
+    .validation-summary { 
+        background: #fff5f5;
+        border: 1px solid #fecaca;
+        border-radius: 8px;
+        padding: 10px 14px;
+        font-family: 'DM Sans', sans-serif;
+        font-size: 13px;
+        color: #e53935;
+        margin-bottom: 20px;
+    }
+    .section-label {
+        font-family: 'DM Sans', sans-serif;
+        font-size: 11px;
+        font-weight: 500;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: #bbb;
+        margin: 24px 0 14px;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+    .section-label::after {
+        content: '';
+        flex: 1;
+        height: 1px;
+        background: #f0f0f0;
+    }
+</style>
+
+<div class="reg-page">
+    <div class="reg-card">
+        <h1>Create account</h1>
+        <p class="reg-sub">Join us — fill in your details below</p>
+        <div class="reg-divider"></div>
+
+        <form id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+
+            <div asp-validation-summary="ModelOnly" class="validation-summary" role="alert"></div>
+
+            <span class="section-label">Personal info</span>
+
+            <div class="field-group">
+                <label asp-for="Input.Name">Full name</label>
+                <input asp-for="Input.Name" placeholder="Enter Name" />
+                <span asp-validation-for="Input.Name" class="text-danger"></span>
+            </div>
+
+            <div class="field-group">
+                <label asp-for="Input.Email">Email address</label>
+                <input asp-for="Input.Email" autocomplete="username" placeholder="name@example.com" />
+                <span asp-validation-for="Input.Email" class="text-danger"></span>
+            </div>
+
+            <div class="field-group">
+                <label asp-for="Input.phonenumber">Phone number</label>
+                <input asp-for="Input.phonenumber" placeholder="+1 234 567 8900" />
+                <span asp-validation-for="Input.phonenumber" class="text-danger"></span>
+            </div>
+
+            <span class="section-label">Address</span>
+
+            <div class="field-group">
+                <label asp-for="Input.streetaddress">Street address</label>
+                <input asp-for="Input.streetaddress" placeholder="123 Main Street" />
+                <span asp-validation-for="Input.streetaddress" class="text-danger"></span>
+            </div>
+
+            <div class="fields-row">
+                <div class="field-group">
+                    <label asp-for="Input.city">City</label>
+                    <input asp-for="Input.city" placeholder="Enter City" />
+                    <span asp-validation-for="Input.city" class="text-danger"></span>
+                </div>
+                <div class="field-group">
+                    <label asp-for="Input.state">State</label>
+                    <input asp-for="Input.state" placeholder="Enter State" />
+                    <span asp-validation-for="Input.state" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="field-group">
+                <label asp-for="Input.postalcode">Postal code</label>
+                <input asp-for="Input.postalcode" placeholder="Enter PostalCode" />
+                <span asp-validation-for="Input.postalcode" class="text-danger"></span>
+            </div>
+
+            <span class="section-label">Security</span>
+
+            <div class="field-group">
+                <label asp-for="Input.Password">Password</label>
+                <input asp-for="Input.Password" autocomplete="new-password" placeholder="Min. 8 characters" />
+                <span asp-validation-for="Input.Password" class="text-danger"></span>
+            </div>
+
+            <div class="field-group">
+                <label asp-for="Input.ConfirmPassword">Confirm password</label>
+                <input asp-for="Input.ConfirmPassword" autocomplete="new-password" placeholder="Repeat password" />
+                <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+            </div>
+
+            @if (User.IsInRole(SD.role_Admin))
+            {
+                <span class="section-label">Admin options</span>
+
+                <div class="field-group">
+                    <label asp-for="Input.role">Role</label>
+                    <select asp-for="Input.role" asp-items="@Model.Input.RolesList">
+                        <option value="">Select role</option>
+                    </select>
+                    <span asp-validation-for="Input.role" class="text-danger"></span>
+                </div>
+
+                <div class="field-group">
+                    <label asp-for="Input.companyid">Company</label>
+                    <select asp-for="Input.companyid" asp-items="@Model.Input.CompanyList">
+                        <option value="">Select company</option>
+                    </select>
+                    <span asp-validation-for="Input.companyid" class="text-danger"></span>
+                </div>
+            }
+
+            <button id="registerSubmit" type="submit" class="reg-submit">Create account →</button>
+        </form>
+
+        <p class="reg-login-link">Already have an account? <a asp-page="./Login">Sign in</a></p>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

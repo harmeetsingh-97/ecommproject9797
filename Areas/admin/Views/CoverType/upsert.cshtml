@@ -1,0 +1,191 @@
+﻿@model ecomm_project.models.covertype
+@{
+    var title = Model.id != 0 ? "Edit CoverType" : "New CoverType";
+    var subtitle = Model.id != 0 ? "Update the cover type details below." : "Fill in the details to create a new cover type.";
+    var saveupdate = Model.id != 0 ? "Update →" : "Save →";
+}
+
+<style>
+    @@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&family=DM+Sans:wght@300;400;500&display=swap');
+
+    html, body {
+        min-height: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    body {
+        font-family: 'DM Sans', sans-serif;
+        background: linear-gradient(135deg, #c8d8c0 0%, #d4c8a0 50%, #c8b890 100%) !important;
+        background-attachment: fixed !important;
+    }
+
+    .ups-page {
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 40px 16px;
+    }
+
+    .ups-card {
+        background: #ffffff;
+        border-radius: 16px;
+        padding: 48px 52px 44px;
+        width: 100%;
+        max-width: 520px;
+        box-shadow: 0 8px 40px rgba(0,0,0,0.10);
+    }
+
+    .ups-title {
+        font-family: 'Playfair Display', serif;
+        font-size: 2rem;
+        font-weight: 600;
+        color: #1a1a1a;
+        margin: 0 0 6px;
+        letter-spacing: -0.5px;
+    }
+
+    .ups-subtitle {
+        font-size: 0.92rem;
+        color: #888;
+        margin: 0 0 28px;
+    }
+
+    .ups-divider {
+        border: none;
+        border-top: 1px solid #e8e8e8;
+        margin: 0 0 28px;
+    }
+
+    .validation-summary {
+        background: #fff5f5;
+        border: 1px solid #fcc;
+        border-radius: 8px;
+        padding: 11px 16px;
+        margin-bottom: 20px;
+        color: #c0392b;
+        font-size: 0.86rem;
+    }
+
+    .form-group { margin-bottom: 22px; }
+
+    .form-label-text {
+        display: block;
+        font-size: 0.72rem;
+        font-weight: 500;
+        letter-spacing: 0.10em;
+        color: #555;
+        text-transform: uppercase;
+        margin-bottom: 8px;
+    }
+
+    .form-control-input {
+        width: 100%;
+        padding: 14px 16px;
+        font-family: 'DM Sans', sans-serif;
+        font-size: 0.97rem;
+        color: #1a1a1a;
+        background: #f7f7f5;
+        border: 1.5px solid #e0e0da;
+        border-radius: 10px;
+        outline: none;
+        transition: border-color 0.2s, box-shadow 0.2s;
+        box-sizing: border-box;
+    }
+
+    .form-control-input:focus {
+        border-color: #888;
+        background: #fff;
+        box-shadow: 0 0 0 3px rgba(100,100,100,0.07);
+    }
+
+    .text-danger-msg {
+        color: #c0392b;
+        font-size: 0.81rem;
+        margin-top: 5px;
+        display: block;
+    }
+
+    .btn-row {
+        display: flex;
+        gap: 12px;
+        margin-top: 32px;
+    }
+
+    .btn-save {
+        flex: 1;
+        padding: 15px;
+        background: #1a1a1a;
+        color: #fff;
+        font-family: 'DM Sans', sans-serif;
+        font-size: 0.97rem;
+        font-weight: 500;
+        border: none;
+        border-radius: 50px;
+        cursor: pointer;
+        letter-spacing: 0.02em;
+        transition: background 0.2s, transform 0.1s;
+    }
+
+    .btn-save:hover { background: #333; }
+    .btn-save:active { transform: scale(0.99); }
+
+    .btn-back {
+        flex: 1;
+        padding: 15px;
+        background: transparent;
+        color: #555;
+        font-family: 'DM Sans', sans-serif;
+        font-size: 0.97rem;
+        font-weight: 500;
+        border: 1.5px solid #d0d0ca;
+        border-radius: 50px;
+        cursor: pointer;
+        text-decoration: none;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        letter-spacing: 0.01em;
+        transition: border-color 0.15s, background 0.15s, color 0.15s;
+    }
+
+    .btn-back:hover {
+        border-color: #1a1a1a;
+        color: #1a1a1a;
+        background: #f4f4f0;
+        text-decoration: none;
+    }
+</style>
+
+<div class="ups-page">
+    <div class="ups-card">
+        <h1 class="ups-title">@title</h1>
+        <p class="ups-subtitle">@subtitle</p>
+        <hr class="ups-divider" />
+
+        <form method="post">
+            @if (Model.id != 0)
+            {
+                <input type="hidden" asp-for="id" />
+            }
+
+            <div asp-validation-summary="ModelOnly" class="validation-summary"></div>
+
+            <div class="form-group">
+                <label class="form-label-text" asp-for="name">Cover Type Name</label>
+                <input asp-for="name" class="form-control-input" placeholder="Enter cover type name" />
+                <span asp-validation-for="name" class="text-danger-msg"></span>
+            </div>
+
+            <div class="btn-row">
+                <button type="submit" class="btn-save">@saveupdate</button>
+                <a asp-action="Index" class="btn-back">← Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

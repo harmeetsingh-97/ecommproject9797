@@ -1,0 +1,437 @@
+﻿@model ecomm_project.models.ViewModels.ProductVM
+
+@{
+    var title = Model.Product.id != 0 ? "Edit Product" : "New Product";
+    var subtitle = Model.Product.id != 0 ? "Update the product details below." : "Fill in the details to create a new product.";
+    var saveupdate = Model.Product.id != 0 ? "Update →" : "Save →";
+}
+
+<style>
+    @@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&family=DM+Sans:wght@300;400;500&display=swap');
+
+    html, body {
+        min-height: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    body {
+        font-family: 'DM Sans', sans-serif;
+        background: linear-gradient(135deg, #c8d8c0 0%, #d4c8a0 50%, #c8b890 100%) !important;
+        background-attachment: fixed !important;
+    }
+
+    .prod-page {
+        min-height: 100vh;
+        padding: 40px 24px;
+    }
+
+    .prod-container {
+        max-width: 1100px;
+        margin: 0 auto;
+    }
+
+    .prod-page-title {
+        font-family: 'Playfair Display', serif;
+        font-size: 2rem;
+        font-weight: 600;
+        color: #1a1a1a;
+        letter-spacing: -0.5px;
+        margin: 0 0 28px;
+    }
+
+    .prod-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 24px;
+        align-items: start;
+    }
+
+    @@media (max-width: 768px) {
+        .prod-grid { grid-template-columns: 1fr; }
+    }
+
+    /* ── Card ── */
+    .prod-card {
+        background: #ffffff;
+        border-radius: 16px;
+        padding: 36px 40px 36px;
+        box-shadow: 0 8px 40px rgba(0,0,0,0.10);
+    }
+
+    .card-section-title {
+        font-size: 0.68rem;
+        font-weight: 500;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+        color: #aaa;
+        margin: 0 0 20px;
+        padding-bottom: 12px;
+        border-bottom: 1px solid #f0f0ec;
+    }
+
+    /* ── Form elements ── */
+    .validation-summary {
+        background: #fff5f5;
+        border: 1px solid #fcc;
+        border-radius: 8px;
+        padding: 11px 16px;
+        margin-bottom: 20px;
+        color: #c0392b;
+        font-size: 0.86rem;
+    }
+
+    .form-group { margin-bottom: 20px; }
+
+    .form-label-text {
+        display: block;
+        font-size: 0.70rem;
+        font-weight: 500;
+        letter-spacing: 0.10em;
+        color: #555;
+        text-transform: uppercase;
+        margin-bottom: 7px;
+    }
+
+    .form-input,
+    .form-select,
+    .form-textarea {
+        width: 100%;
+        padding: 13px 15px;
+        font-family: 'DM Sans', sans-serif;
+        font-size: 0.95rem;
+        color: #1a1a1a;
+        background: #f7f7f5;
+        border: 1.5px solid #e0e0da;
+        border-radius: 10px;
+        outline: none;
+        transition: border-color 0.2s, box-shadow 0.2s;
+        box-sizing: border-box;
+        appearance: none;
+    }
+
+    .form-input:focus,
+    .form-select:focus,
+    .form-textarea:focus {
+        border-color: #888;
+        background: #fff;
+        box-shadow: 0 0 0 3px rgba(100,100,100,0.07);
+    }
+
+    .form-textarea {
+        resize: vertical;
+        min-height: 130px;
+        line-height: 1.6;
+    }
+
+    .select-wrap {
+        position: relative;
+    }
+
+    .select-wrap::after {
+        content: '▾';
+        position: absolute;
+        right: 14px;
+        top: 50%;
+        transform: translateY(-50%);
+        color: #888;
+        pointer-events: none;
+        font-size: 0.85rem;
+    }
+
+    .form-select { padding-right: 36px; cursor: pointer; }
+
+    .text-danger-msg {
+        color: #c0392b;
+        font-size: 0.80rem;
+        margin-top: 4px;
+        display: block;
+    }
+
+    /* Price grid */
+    .price-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 14px;
+    }
+
+    /* File upload */
+    .file-upload-wrap {
+        position: relative;
+        border: 1.5px dashed #d0d0ca;
+        border-radius: 10px;
+        background: #f7f7f5;
+        padding: 18px 16px;
+        text-align: center;
+        cursor: pointer;
+        transition: border-color 0.2s, background 0.2s;
+    }
+
+    .file-upload-wrap:hover {
+        border-color: #888;
+        background: #f0f0ec;
+    }
+
+    .file-upload-wrap input[type="file"] {
+        position: absolute;
+        inset: 0;
+        opacity: 0;
+        cursor: pointer;
+        width: 100%;
+        height: 100%;
+    }
+
+    .file-upload-label {
+        font-size: 0.88rem;
+        color: #888;
+        pointer-events: none;
+    }
+
+    .file-upload-label span {
+        display: block;
+        font-size: 0.78rem;
+        color: #aaa;
+        margin-top: 4px;
+    }
+
+    /* ── Buttons ── */
+    .btn-row {
+        display: flex;
+        gap: 12px;
+        margin-top: 28px;
+    }
+
+    .btn-save {
+        flex: 1;
+        padding: 14px;
+        background: #1a1a1a;
+        color: #fff;
+        font-family: 'DM Sans', sans-serif;
+        font-size: 0.95rem;
+        font-weight: 500;
+        border: none;
+        border-radius: 50px;
+        cursor: pointer;
+        letter-spacing: 0.02em;
+        transition: background 0.2s, transform 0.1s;
+    }
+
+    .btn-save:hover { background: #333; }
+    .btn-save:active { transform: scale(0.99); }
+
+    .btn-back {
+        flex: 1;
+        padding: 14px;
+        background: transparent;
+        color: #555;
+        font-family: 'DM Sans', sans-serif;
+        font-size: 0.95rem;
+        font-weight: 500;
+        border: 1.5px solid #d0d0ca;
+        border-radius: 50px;
+        cursor: pointer;
+        text-decoration: none;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        letter-spacing: 0.01em;
+        transition: border-color 0.15s, background 0.15s, color 0.15s;
+    }
+
+    .btn-back:hover {
+        border-color: #1a1a1a;
+        color: #1a1a1a;
+        background: #f4f4f0;
+        text-decoration: none;
+    }
+
+    /* ── Image preview card ── */
+    .img-card {
+        background: #ffffff;
+        border-radius: 16px;
+        padding: 28px;
+        box-shadow: 0 8px 40px rgba(0,0,0,0.10);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        min-height: 260px;
+        gap: 12px;
+    }
+
+    .img-card img {
+        width: 100%;
+        max-height: 360px;
+        object-fit: contain;
+        border-radius: 10px;
+    }
+
+    .img-placeholder {
+        text-align: center;
+        color: #bbb;
+        font-size: 0.88rem;
+    }
+
+    .img-placeholder i {
+        font-size: 2.5rem;
+        display: block;
+        margin-bottom: 8px;
+        color: #d0d0ca;
+    }
+</style>
+
+<div class="prod-page">
+    <div class="prod-container">
+
+        <h1 class="prod-page-title">@title</h1>
+
+        <div class="prod-grid">
+
+            <!-- LEFT: Form card -->
+            <div class="prod-card">
+                <p class="card-section-title">@subtitle</p>
+
+                <form method="post" enctype="multipart/form-data">
+                    @if (Model.Product.id != 0)
+                    {
+                        <input type="hidden" asp-for="@Model.Product.id" />
+                    }
+
+                    <div asp-validation-summary="ModelOnly" class="validation-summary"></div>
+
+                    <div class="form-group">
+                        <label class="form-label-text" asp-for="Product.Title">Title</label>
+                        <input asp-for="Product.Title" class="form-input" placeholder="Book title" />
+                        <span asp-validation-for="Product.Title" class="text-danger-msg"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="form-label-text" asp-for="Product.Description">Description</label>
+                        <textarea asp-for="Product.Description" class="form-textarea" placeholder="Book description..."></textarea>
+                        <span asp-validation-for="Product.Description" class="text-danger-msg"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="form-label-text" asp-for="Product.Author">Author</label>
+                        <input asp-for="Product.Author" class="form-input" placeholder="Author name" />
+                        <span asp-validation-for="Product.Author" class="text-danger-msg"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="form-label-text" asp-for="Product.ISBN">ISBN</label>
+                        <input asp-for="Product.ISBN" class="form-input" placeholder="ISBN number" />
+                        <span asp-validation-for="Product.ISBN" class="text-danger-msg"></span>
+                    </div>
+
+                    <!-- Prices in 2-col grid -->
+                    <div class="form-group">
+                        <label class="form-label-text">Pricing</label>
+                        <div class="price-grid">
+                            <div>
+                                <label class="form-label-text" asp-for="Product.ListPrice" style="font-size:0.64rem;">List Price</label>
+                                <input asp-for="Product.ListPrice" class="form-input" placeholder="0.00" />
+                                <span asp-validation-for="Product.ListPrice" class="text-danger-msg"></span>
+                            </div>
+                            <div>
+                                <label class="form-label-text" asp-for="Product.Price" style="font-size:0.64rem;">Price</label>
+                                <input asp-for="Product.Price" class="form-input" placeholder="0.00" />
+                                <span asp-validation-for="Product.Price" class="text-danger-msg"></span>
+                            </div>
+                            <div>
+                                <label class="form-label-text" asp-for="Product.Price50" style="font-size:0.64rem;">Price (50+)</label>
+                                <input asp-for="Product.Price50" class="form-input" placeholder="0.00" />
+                                <span asp-validation-for="Product.Price50" class="text-danger-msg"></span>
+                            </div>
+                            <div>
+                                <label class="form-label-text" asp-for="Product.Price100" style="font-size:0.64rem;">Price (100+)</label>
+                                <input asp-for="Product.Price100" class="form-input" placeholder="0.00" />
+                                <span asp-validation-for="Product.Price100" class="text-danger-msg"></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="form-label-text" asp-for="Product.categoryid">Category</label>
+                        <div class="select-wrap">
+                            <select asp-for="Product.categoryid" asp-items="@Model.CategoryList" class="form-select">
+                                <option value="">Select Category</option>
+                            </select>
+                        </div>
+                        <span asp-validation-for="Product.categoryid" class="text-danger-msg"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="form-label-text" asp-for="Product.covertypeid">Cover Type</label>
+                        <div class="select-wrap">
+                            <select asp-for="Product.covertypeid" asp-items="@Model.CoverTypeList" class="form-select">
+                                <option value="">Select Cover Type</option>
+                            </select>
+                        </div>
+                        <span asp-validation-for="Product.covertypeid" class="text-danger-msg"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="form-label-text">Product Image</label>
+                        <div class="file-upload-wrap">
+                            <input type="file" name="files" id="uploadimages" asp-for="Product.ImageUrl" />
+                            <div class="file-upload-label">
+                                <i class="fas fa-cloud-upload-alt" style="font-size:1.4rem;color:#d0d0ca;display:block;margin-bottom:6px;"></i>
+                                Click to upload image
+                                <span>PNG, JPG, WEBP supported</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="btn-row">
+                        @if (Model.Product.id != 0)
+                        {
+                            <partial name="EditAndBackToListButtons" />
+                        }
+                        else
+                        {
+                            <div class="row">
+                            <button type="submit" onclick="return valData()" class="btn-save">@saveupdate</button>
+                            <a asp-action="Index" class="btn-back">← Back to List</a>
+                            </div>
+                        }
+                    </div>
+                </form>
+            </div>
+
+            <!-- RIGHT: Image preview card -->
+            <div class="img-card">
+                @if (Model.Product.ImageUrl != null)
+                {
+                    <img src="@Model.Product.ImageUrl" alt="Product Image" />
+                }
+                else
+                {
+                    <div class="img-placeholder">
+                        <i class="fas fa-image"></i>
+                        Image preview will appear here
+                    </div>
+                }
+            </div>
+
+        </div>
+    </div>
+</div>
+
+@section scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tinymce/7.9.1/tinymce.min.js" referrerpolicy="origin" crossorigin="anonymous"></script>
+    <script>
+        function valData() {
+            if (document.getElementById("uploadimages").value == "") {
+                swal("Error", "Please Select Product Image", 'error');
+                return false;
+            }
+            return true;
+        }
+        tinymce.init({
+            selector: "textarea",
+            plugins: "lists",
+            menubar: "file edit format"
+        });
+    </script>
+}

@@ -1,0 +1,98 @@
+﻿@model ecomm_project.models.ViewModels.ShoppingCartVM
+
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=DM+Sans:wght@400;500&display=swap" rel="stylesheet" />
+<form method="post" onsubmit="return validateSelection()">
+
+    <div class="cart-page">
+        <div class="cart-wrap">
+
+            <div class="cart-header">
+                <h1><i class="fa fa-shopping-cart" aria-hidden="true"></i> Shopping cart</h1>
+                <a asp-controller="Home" asp-action="Index" class="btn-continue">← Continue shopping</a>
+            </div>
+
+            <label class="select-all-row">
+                <input type="checkbox" id="selectAll" />
+                Select all items
+            </label>
+
+            <div class="cart-card">
+                @foreach (var list in Model.ListCart)
+                {
+                    <div class="cart-item">
+                        <input type="checkbox" class="product-checkbox" name="selectedProducts" value="@list.ProductId" />
+
+                        <img src="@list.product.ImageUrl" alt="@list.product.Title" class="cart-item-img" />
+
+                        <div class="cart-item-info">
+                            <p class="cart-item-title">@list.product.Title</p>
+                            <p class="cart-item-desc">@Html.Raw(list.product.Description)</p>
+                        </div>
+
+                        <div class="cart-item-actions">
+                            <div class="cart-item-price">
+                                ₹@((list.price * list.count).ToString("0.00"))
+                                <span>@list.price × @list.count</span>
+                            </div>
+                            <div class="qty-btns">
+                                <a asp-action="Minus" asp-route-id="@list.id" class="qty-btn" title="Decrease">
+                                    <i class="fas fa-minus" aria-hidden="true"></i>
+                                </a>
+                                <a asp-action="Plus" asp-route-id="@list.id" class="qty-btn" title="Increase">
+                                    <i class="fas fa-plus" aria-hidden="true"></i>
+                                </a>
+                                <a asp-action="Delete" asp-route-id="@list.id" class="qty-btn del" title="Remove">
+                                    <i class="fas fa-trash" aria-hidden="true"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+
+            <div class="cart-summary">
+                <div>
+                    <p class="total-label">Order total</p>
+                    <p class="total-amount">₹@Model.OrderHeader.OrderTotal.ToString("0.00") <span>INR</span></p>
+                </div>
+
+                @if (!Model.OrderHeader.ApplicationUser.EmailConfirmed)
+                {
+                    <div class="email-alert" style="width:100%;">
+                        <span class="email-alert-msg">
+                            <i class="fas fa-exclamation-triangle" aria-hidden="true"></i>
+                            @ViewBag.EmailMessage — please confirm your email to place an order.
+                        </span>
+                        <button type="submit" class="btn-resend">Resend confirmation →</button>
+                    </div>
+                }
+                else
+                {
+                    <button type="submit" asp-action="Summary" class="btn-summary">Proceed to summary →</button>
+                }
+            </div>
+
+        </div>
+    </div>
+</form>
+
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script>
+    document.getElementById("selectAll").addEventListener("change", function () {
+        document.querySelectorAll(".product-checkbox").forEach(cb => cb.checked = this.checked);
+    });
+
+    function validateSelection() {
+        const isAnyChecked = Array.from(document.querySelectorAll('.product-checkbox')).some(cb => cb.checked);
+        if (!isAnyChecked) {
+            Swal.fire({
+                icon: 'error',
+                title: 'No selection',
+                text: 'Please select at least one product to proceed.',
+                confirmButtonColor: '#1a1a1a'
+            });
+            return false;
+        }
+        return true;
+    }
+</script>

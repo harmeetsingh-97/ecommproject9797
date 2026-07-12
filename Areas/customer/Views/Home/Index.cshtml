@@ -1,0 +1,297 @@
+﻿@model IEnumerable<ecomm_project.models.product>
+
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=DM+Sans:wght@400;500&display=swap" rel="stylesheet" />
+
+<style>
+    /* ── Search Section ── */
+    .search-section {
+        display: flex;
+        justify-content: center;
+        padding: 2.5rem 1rem 1.5rem;
+    }
+
+    .search-3d-wrap {
+        position: relative;
+        width: 100%;
+        max-width: 580px;
+    }
+
+    /* Glowing shadow layer beneath — creates the 3D lift */
+    .search-3d-wrap::before {
+        content: '';
+        position: absolute;
+        inset: 0;
+        border-radius: 60px;
+        background: linear-gradient(135deg, #4f8ef7, #a855f7, #ec4899);
+        filter: blur(18px);
+        opacity: 0.45;
+        transform: translateY(8px) scaleX(0.96);
+        z-index: 0;
+        transition: opacity 0.3s, transform 0.3s;
+    }
+
+    .search-3d-wrap:focus-within::before {
+        opacity: 0.7;
+        transform: translateY(12px) scaleX(0.97);
+    }
+
+    .search-bar-3d {
+        position: relative;
+        z-index: 1;
+        display: flex;
+        align-items: center;
+        background: linear-gradient(145deg, #1e1e2e, #16161f);
+        border: 1.5px solid rgba(255,255,255,0.12);
+        border-radius: 60px;
+        padding: 6px 6px 6px 22px;
+        box-shadow:
+            0 2px 0px rgba(255,255,255,0.08) inset,
+            0 -1px 0px rgba(0,0,0,0.5) inset,
+            0 4px 16px rgba(0,0,0,0.5);
+        transition: border-color 0.25s;
+    }
+
+    .search-bar-3d:focus-within {
+        border-color: rgba(255,255,255,0.28);
+    }
+
+    .search-icon-3d {
+        color: #666;
+        font-size: 17px;
+        margin-right: 10px;
+        flex-shrink: 0;
+        transition: color 0.2s;
+    }
+
+    .search-bar-3d:focus-within .search-icon-3d {
+        color: #a78bfa;
+    }
+
+    .search-input-3d {
+        flex: 1;
+        background: transparent;
+        border: none;
+        outline: none;
+        color: #f0f0f0;
+        font-family: 'DM Sans', sans-serif;
+        font-size: 14.5px;
+        padding: 10px 0;
+        letter-spacing: 0.01em;
+    }
+
+    .search-input-3d::placeholder { color: #555; }
+
+    .search-btn-3d {
+        background: linear-gradient(135deg, #6366f1, #8b5cf6);
+        color: #fff;
+        border: none;
+        border-radius: 50px;
+        padding: 10px 22px;
+        font-family: 'DM Sans', sans-serif;
+        font-size: 13.5px;
+        font-weight: 500;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        gap: 7px;
+        /* 3D press effect */
+        box-shadow:
+            0 4px 0 #3730a3,
+            0 6px 12px rgba(99,102,241,0.4);
+        transition: transform 0.1s, box-shadow 0.1s;
+        flex-shrink: 0;
+    }
+
+    .search-btn-3d:hover {
+        background: linear-gradient(135deg, #7577f3, #9d6ef7);
+    }
+
+    .search-btn-3d:active {
+        transform: translateY(3px);
+        box-shadow:
+            0 1px 0 #3730a3,
+            0 2px 6px rgba(99,102,241,0.3);
+    }
+
+    /* No results message */
+    .no-results {
+        display: none;
+        text-align: center;
+        padding: 3rem 0;
+        color: #888;
+        font-family: 'DM Sans', sans-serif;
+        font-size: 15px;
+    }
+
+    /* ── Book Grid (unchanged) ── */
+    .shop-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+        gap: 20px;
+        padding: 1.5rem 0;
+    }
+    .book-card {
+        background: #fff;
+        border: 1px solid #e8e8e8;
+        border-radius: 12px;
+        overflow: hidden;
+        display: flex;
+        flex-direction: column;
+        transition: transform 0.2s, border-color 0.2s, box-shadow 0.2s;
+    }
+    .book-card:hover {
+        transform: translateY(-4px);
+        border-color: #ccc;
+        box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+    }
+    .book-card:hover .card-overlay { opacity: 1; }
+    .book-card:hover .cover-wrap img { transform: scale(1.04); }
+    .cover-wrap {
+        position: relative;
+        aspect-ratio: 2/3;
+        overflow: hidden;
+        background: #f4f4f4;
+    }
+    .cover-wrap img {
+        width: 100%; height: 100%;
+        object-fit: cover;
+        display: block;
+        transition: transform 0.35s;
+    }
+    .card-overlay {
+        position: absolute; inset: 0;
+        background: rgba(0,0,0,0.42);
+        display: flex; align-items: flex-end;
+        justify-content: center;
+        padding-bottom: 16px;
+        opacity: 0;
+        transition: opacity 0.25s;
+    }
+    .card-badge {
+        position: absolute; top: 10px; left: 10px;
+        background: #1a1a1a; color: #fff;
+        font-family: 'DM Sans', sans-serif;
+        font-size: 10px; font-weight: 500;
+        letter-spacing: 0.06em; text-transform: uppercase;
+        padding: 4px 8px; border-radius: 4px;
+    }
+    .overlay-btn {
+        background: #fff; color: #111;
+        font-family: 'DM Sans', sans-serif;
+        font-size: 13px; font-weight: 500;
+        border: none; border-radius: 50px;
+        padding: 9px 22px; cursor: pointer;
+        text-decoration: none;
+    }
+    .overlay-btn:hover { background: #f0f0f0; }
+    .card-body { padding: 14px 14px 16px; display: flex; flex-direction: column; gap: 4px; flex: 1; }
+    .card-author {
+        font-family: 'DM Sans', sans-serif;
+        font-size: 11px; font-weight: 500;
+        letter-spacing: 0.06em; text-transform: uppercase;
+        color: #888;
+    }
+    .card-title {
+        font-family: 'Playfair Display', serif;
+        font-size: 15px; font-weight: 600;
+        color: #1a1a1a; line-height: 1.35; margin-top: 2px;
+    }
+    .price-row {
+        display: flex; align-items: center;
+        gap: 8px; margin-top: auto; padding-top: 10px;
+    }
+    .price-sale { font-family: 'DM Sans', sans-serif; font-size: 16px; font-weight: 500; color: #1a1a1a; }
+    .price-list { font-family: 'DM Sans', sans-serif; font-size: 12px; color: #aaa; text-decoration: line-through; }
+    .save-tag {
+        font-family: 'DM Sans', sans-serif;
+        font-size: 10px; font-weight: 500;
+        background: #e8f5e9; color: #2e7d32;
+        padding: 3px 7px; border-radius: 4px; margin-left: auto;
+    }
+</style>
+
+<!-- 3D Search Bar -->
+<div class="search-section">
+    <div class="search-3d-wrap">
+        <div class="search-bar-3d">
+            <svg class="search-icon-3d" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+            </svg>
+            <input
+                type="text"
+                id="searchInput"
+                class="search-input-3d"
+                placeholder="Search by title or author…"
+                oninput="doSearch()"
+            />
+            <button class="search-btn-3d" onclick="doSearch()">
+                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                    <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+                </svg>
+                Search
+            </button>
+        </div>
+    </div>
+</div>
+
+<div class="no-results" id="noResults">No books found for your search.</div>
+
+<div class="shop-grid" id="shopGrid">
+    @foreach (var product in Model)
+    {
+        var discount = (int)Math.Round((1 - product.Price100 / product.ListPrice) * 100);
+
+        <div class="book-card">
+            <div class="cover-wrap">
+                <img src="@product.ImageUrl" alt="@product.Title" loading="lazy" />
+                <span class="card-badge">Save @discount%</span>
+                <div class="card-overlay">
+                    <a asp-action="Details" asp-route-id="@product.id" class="overlay-btn">View details →</a>
+                </div>
+            </div>
+            <div class="card-body">
+                <span class="card-author">@product.Author</span>
+                <p class="card-title">@product.Title</p>
+                <div class="price-row">
+                    <span class="price-sale">$@product.Price100.ToString("0.00")</span>
+                    <span class="price-list">$@product.ListPrice.ToString("0.00")</span>
+                    <span class="save-tag">@discount% off</span>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+    function doSearch() {
+        const query = document.getElementById('searchInput').value.toLowerCase().trim();
+        const cards = document.querySelectorAll('.book-card');
+        let visible = 0;
+
+        cards.forEach(card => {
+            const title = card.querySelector('.card-title').textContent.toLowerCase();
+            const author = card.querySelector('.card-author').textContent.toLowerCase();
+
+            const match =
+                query === "" ||
+                title.includes(query) ||
+                author.includes(query);
+
+            card.style.display = match ? "" : "none";
+
+            if (match) visible++;
+        });
+
+        document.getElementById('noResults').style.display =
+            visible === 0 ? "block" : "none";
+    }
+
+    document.getElementById("searchInput").addEventListener("keydown", function(e) {
+        if (e.key === "Enter") {
+            doSearch();
+        }
+    });
+
+});
+</script>

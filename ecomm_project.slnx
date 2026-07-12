@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ecomm_project.DataAccess/ecomm_project.DataAccess.csproj" />
+  <Project Path="ecomm_project.models/ecomm_project.models.csproj" />
+  <Project Path="ecomm_project/ecomm_project.csproj" />
+  <Project Path="ecomm_utility/ecomm_utility.csproj" />
+</Solution>

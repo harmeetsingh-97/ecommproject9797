@@ -1,0 +1,68 @@
+﻿@model ecomm_project.models.ShoppingCart
+
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=DM+Sans:wght@400;500&display=swap" rel="stylesheet" />
+
+
+
+<form method="post">
+    <input type="hidden" asp-for="@Model.ProductId" />
+
+    <div class="det-page">
+        <div class="det-card">
+
+            <div class="det-header">
+                <div>
+                    <h1>@Model.product.Title</h1>
+                    <p class="det-author">by @Model.product.Author</p>
+                </div>
+                <div class="det-badges">
+                    <span class="det-badge cat">@Model.product.category.name</span>
+                    <span class="det-badge cover">@Model.product.covertype.name</span>
+                </div>
+            </div>
+
+            <div class="det-body">
+                <div class="det-info">
+                    <p class="det-isbn">ISBN — @Model.product.ISBN</p>
+                    <p class="det-list-price">List price: <s>$@Model.product.ListPrice.ToString("0.00")</s></p>
+
+                    <table class="price-table">
+                        <thead>
+                            <tr>
+                                <th>Qty</th>
+                                <th>1 – 49</th>
+                                <th>50 – 99</th>
+                                <th>100+</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Price</td>
+                                <td>$@Model.product.Price.ToString("0.00")</td>
+                                <td>$@Model.product.Price50.ToString("0.00")</td>
+                                <td>$@Model.product.Price100.ToString("0.00")</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                    <div class="det-desc">@Html.Raw(Model.product.Description)</div>
+
+                    <div class="qty-row">
+                        <label asp-for="@Model.count">Quantity</label>
+                        <input asp-for="@Model.count" type="number" min="1" placeholder="1" />
+                    </div>
+                </div>
+
+                <div class="det-cover">
+                    <img src="@Model.product.ImageUrl" alt="@Model.product.Title" />
+                </div>
+            </div>
+
+            <div class="det-footer">
+                <a asp-action="Index" class="btn-back">← Back to list</a>
+                <button type="submit" class="btn-cart">Add to cart →</button>
+            </div>
+
+        </div>
+    </div>
+</form>

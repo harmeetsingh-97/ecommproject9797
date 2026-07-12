@@ -1,0 +1,164 @@
+﻿@using Microsoft.Extensions.Options
+@model ecomm_project.models.ViewModels.ShoppingCartVM
+@inject IOptions<ecomm_utility.StripeSettings> Stripe
+
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=DM+Sans:wght@400;500&display=swap" rel="stylesheet" />
+<form asp-action="PlaceOrder" asp-controller="Cart" method="post">
+
+    <div class="summary-page">
+        <div class="summary-wrap">
+
+            <div class="summary-header">
+                <h1><i class="fa fa-shopping-cart" aria-hidden="true"></i> Order summary</h1>
+                <a asp-action="Index" class="btn-back">← Back to cart</a>
+            </div>
+
+            <div class="summary-grid">
+
+                <div class="summary-card">
+                    <div class="card-inner">
+
+                        <p class="section-label">Delivery address</p>
+
+                        <div class="field-group">
+                            <label for="addressDropdown">Quick fill from saved addresses</label>
+                            <select id="addressDropdown" onchange="fillAddressFromDropdown()">
+                                <option value="">Select a saved address</option>
+                                <option value="current">Use current location</option>
+                                <option value="saved1" data-street="NAGLA" data-city="ZIRAKPUR" data-state="PUNJAB" data-zip="140603">Home (saved)</option>
+                            </select>
+                        </div>
+
+                        <p class="section-label" style="margin-top:24px;">Pickup details</p>
+
+                        <div class="fields-row">
+                            <div class="field-group">
+                                <label asp-for="OrderHeader.Name">Full name</label>
+                                <input asp-for="OrderHeader.Name" placeholder="John Doe" />
+                            </div>
+                            <div class="field-group">
+                                <label asp-for="OrderHeader.PhoneNumber">Phone number</label>
+                                <input asp-for="OrderHeader.PhoneNumber" placeholder="+91 98765 43210" />
+                            </div>
+                        </div>
+
+                        <div class="field-group">
+                            <label asp-for="OrderHeader.StreetAddress">Street address</label>
+                            <input asp-for="OrderHeader.StreetAddress" placeholder="123 Main Street" />
+                        </div>
+
+                        <div class="fields-row">
+                            <div class="field-group">
+                                <label asp-for="OrderHeader.City">City</label>
+                                <input asp-for="OrderHeader.City" placeholder="Chandigarh" />
+                            </div>
+                            <div class="field-group">
+                                <label asp-for="OrderHeader.State">State</label>
+                                <input asp-for="OrderHeader.State" placeholder="Punjab" />
+                            </div>
+                        </div>
+
+                        <div class="field-group">
+                            <label asp-for="OrderHeader.PostalCode">Postal code</label>
+                            <input asp-for="OrderHeader.PostalCode" placeholder="140603" />
+                        </div>
+
+                    </div>
+                </div>
+
+                <div>
+                    <div class="summary-card">
+                        <div class="card-inner" style="padding-bottom:0;">
+                            <p class="section-label">Items in order</p>
+                            @foreach (var list in Model.ListCart)
+                            {
+                                <div class="order-item">
+                                    <div>
+                                        <p class="order-item-title">@list.product.Title</p>
+                                        <p class="order-item-qty">Qty: @list.count</p>
+                                    </div>
+                                    <span class="order-item-price">₹@((list.price * list.count).ToString("0.00"))</span>
+                                </div>
+                            }
+                        </div>
+
+                        <div class="order-total-row">
+                            <span class="order-total-label">Total</span>
+                            <span class="order-total-amount">₹@Model.OrderHeader.OrderTotal.ToString("0.00") <span>INR</span></span>
+                        </div>
+
+                        <p class="arrival-note">
+                            <i class="fa fa-truck" aria-hidden="true"></i>
+                            Estimated arrival: @DateTime.Now.AddDays(7).ToShortDateString() – @DateTime.Now.AddDays(14).ToShortDateString()
+                        </p>
+
+                        @{
+                            var OrderTotalAmount = Model.OrderHeader.OrderTotal * 100;
+                        }
+                        <script src="https://checkout.stripe.com/checkout.js"
+                                class="stripe-button"
+                                data-key="@Stripe.Value.Publishablekey"
+                                data-amount="@OrderTotalAmount"
+                                data-name="Book Shopping Project"
+                                data-description="Get Book For Testing"
+                                data-locale="auto"
+                                data-label="Place Order"
+                                data-allow-remember-me="false"
+                                data-image="https://stripe.com/img/documentation/checkout/marketplace.png">
+                        </script>
+                        <script>
+                            var el = document.getElementsByClassName("stripe-button-el");
+                            if (el.length > 0) el[0].style.display = "none";
+                        </script>
+
+                        <button type="submit" class="btn-place">Place order →</button>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    <script>
+        function fillAddressFromDropdown() {
+            const dropdown = document.getElementById("addressDropdown");
+            const selectedValue = dropdown.value;
+            if (selectedValue === "current") {
+                getCurrentLocation();
+            } else if (selectedValue !== "") {
+                const option = dropdown.options[dropdown.selectedIndex];
+                setFieldValue("StreetAddress", option.getAttribute("data-street"));
+                setFieldValue("City", option.getAttribute("data-city"));
+                setFieldValue("State", option.getAttribute("data-state"));
+                setFieldValue("PostalCode", option.getAttribute("data-zip"));
+            }
+        }
+
+        function getCurrentLocation() {
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(function (position) {
+                    fetch(`https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=${position.coords.latitude}&lon=${position.coords.longitude}`, {
+                        headers: { 'Accept-Language': 'en', 'User-Agent': 'EcommProject/1.0' }
+                    })
+                    .then(r => r.json())
+                    .then(data => {
+                        const a = data.address;
+                        if (a) {
+                            setFieldValue("StreetAddress", a.road || a.suburb || a.neighbourhood || "");
+                            setFieldValue("City", a.city || a.town || a.village || "");
+                            setFieldValue("State", a.state || "");
+                            setFieldValue("PostalCode", a.postcode || "");
+                        }
+                    });
+                });
+            }
+        }
+
+        function setFieldValue(id, value) {
+            const el = document.getElementById(id) || document.getElementById("OrderHeader_" + id);
+            if (el) el.value = value || "";
+        }
+    </script>
+}

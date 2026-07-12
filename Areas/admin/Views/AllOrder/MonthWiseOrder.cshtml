@@ -1,0 +1,103 @@
+﻿@model IEnumerable<ecomm_project.models.OrderHeader>
+@{
+var selectedMonth=Context.Request.Query["filterMonth"];
+}
+<div class="container p-3">
+    <div class="row pt-4">
+        <div class="col-6">
+            <h2 class="text-primary">Month Wise Orders</h2>
+        </div>
+    </div>
+
+    <form method="get">
+        <div class="row p-2">
+            <div class="col-3">
+                <select name="filterMonth" class="form-select">
+                    <option selected>Select Month</option>
+                    <option>January</option>
+                    <option>February</option>
+                    <option>March</option>
+                    <option>April</option>
+                    <option>May</option>
+                    <option>June</option>
+                    <option>July</option>
+                    <option>August</option>
+                    <option>September</option>
+                    <option>October</option>
+                    <option>November</option>
+                    <option>December</option>
+
+                    <!-- Add other months -->
+                </select>
+            </div>
+            <div class="col-2">
+                <button type="submit" class="btn btn-primary form-control">FILTER</button>
+            </div>
+        </div>
+    </form>
+  
+    <br />
+    </div>
+
+    @foreach (var month in System.Globalization.DateTimeFormatInfo.CurrentInfo.MonthNames.Where(m => !string.IsNullOrEmpty(m)))
+    {
+        if (string.IsNullOrEmpty(selectedMonth) || selectedMonth == "All Months" || selectedMonth == month)
+        {
+        <div class="card mb-3">
+            <div class="card-header bg-light">
+                <h4 class="text-secondary">@month 2026</h4>
+            </div>
+            <div class="card-body">
+                @if (((IEnumerable<ecomm_project.models.OrderHeader>)Model).Any(u => u.OrderDate.ToString("MMMM") == month))
+                {
+                    <table class="table table-bordered table-striped" id="tblData-@month">
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>DATE</th>
+                                <th>CUSTOMER</th>
+                                <th>STATUS</th>
+                                <th>TOTAL AMOUNT</th>
+                                <th>ACTION</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var order in ((IEnumerable<ecomm_project.models.OrderHeader>)Model).Where(u => u.OrderDate.ToString("MMMM") == month))
+                            {
+                                <tr>
+                                    <td>@order.Id</td>
+                                    <td>@order.OrderDate.ToShortDateString()</td>
+                                    <td>@order.ApplicationUser.Name</td>
+                                    <td>@order.OrderStatus</td>
+                                    <td>@order.OrderTotal.ToString("C")</td>
+                                    <td>
+                                        <a href="/admin/AllOrder/Details?orderId=@order.Id" class="btn btn-primary">VIEW DETAIL</a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                }
+                else
+                {
+                    <p class="text-center">No order record found.</p>
+                }
+            </div>
+        </div>
+        }
+    }
+   
+<script>
+    $(document).ready(function () {
+        // This finds every table on the page and adds the search/pagination features
+        $('table[id^="tblData-"]').DataTable({
+            "paging": true,
+            "lengthChange": true,
+            "searching": true,
+            "ordering": true,
+            "info": true,
+            "autoWidth": false,
+            "responsive": true
+        });
+    });
+    </script>

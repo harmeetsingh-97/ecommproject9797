@@ -1,0 +1,42 @@
+﻿@page
+@model LoginWithRecoveryCodeModel
+@{
+    ViewData["Title"] = "Recovery code verification";
+}
+
+<div class="min-h-screen flex items-center justify-center bg-gradient-to-br from-[#A8BFA1] to-[#E9DCC9]">
+    <div class="auth-card bg-white/80 backdrop-blur-lg rounded-xl shadow-xl p-8 w-full max-w-md">
+        <!-- Heading -->
+        <h1 class="font-playfair text-2xl text-gray-900 mb-2">Recovery code verification</h1>
+        <hr class="border-gray-200 mb-4" />
+        <p class="font-dm text-gray-600 mb-6">
+            You have requested to log in with a recovery code. This login will not be remembered until you provide
+            an authenticator app code at log in or disable 2FA and log in again.
+        </p>
+
+        <!-- Form -->
+        <form method="post" class="space-y-5">
+            <div asp-validation-summary="ModelOnly" class="text-red-500 text-sm" role="alert"></div>
+
+            <!-- Recovery Code Input -->
+            <div>
+                <label asp-for="Input.RecoveryCode" class="block text-xs tracking-widest uppercase font-dm text-gray-700 mb-2">
+                    Recovery Code
+                </label>
+                <input asp-for="Input.RecoveryCode" autocomplete="off" placeholder="Recovery Code"
+                       class="w-full rounded-md bg-gray-100 px-4 py-3 font-dm text-gray-900 focus:outline-none focus:ring-2 focus:ring-black" />
+                <span asp-validation-for="Input.RecoveryCode" class="text-red-500 text-sm"></span>
+            </div>
+
+            <!-- Submit -->
+            <button type="submit"
+                    class="w-full bg-black text-white rounded-full py-3 font-dm tracking-wide flex items-center justify-center">
+                Log in →
+            </button>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
