@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ecomm_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A35712A-3A62-4407-1CB9-3026D52C1123}|ecomm_project\\ecomm_project.csproj|d:\\ecomm_project\\ecomm_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A35712A-3A62-4407-1CB9-3026D52C1123}|ecomm_project\\ecomm_project.csproj|solutionrelative:ecomm_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A35712A-3A62-4407-1CB9-3026D52C1123}|ecomm_project\\ecomm_project.csproj|d:\\ecomm_project\\ecomm_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A35712A-3A62-4407-1CB9-3026D52C1123}|ecomm_project\\ecomm_project.csproj|solutionrelative:ecomm_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ecomm_project\\ecomm_project\\appsettings.json",
+              "RelativeDocumentMoniker": "ecomm_project\\appsettings.json",
+              "ToolTip": "D:\\ecomm_project\\ecomm_project\\appsettings.json",
+              "RelativeToolTip": "ecomm_project\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-12T16:15:28.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ecomm_project\\ecomm_project\\Program.cs",
+              "RelativeDocumentMoniker": "ecomm_project\\Program.cs",
+              "ToolTip": "D:\\ecomm_project\\ecomm_project\\Program.cs",
+              "RelativeToolTip": "ecomm_project\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T16:14:16.349Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
