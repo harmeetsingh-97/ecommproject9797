@@ -1,0 +1,39 @@
+D:\asp.net core\ecomm_project\ecomm_project.DataAccess\bin\Debug\net10.0\ecomm_project.DataAccess.deps.json
+D:\asp.net core\ecomm_project\ecomm_project.DataAccess\bin\Debug\net10.0\ecomm_project.DataAccess.runtimeconfig.json
+D:\asp.net core\ecomm_project\ecomm_project.DataAccess\bin\Debug\net10.0\ecomm_project.DataAccess.dll
+D:\asp.net core\ecomm_project\ecomm_project.DataAccess\bin\Debug\net10.0\ecomm_project.DataAccess.pdb
+D:\asp.net core\ecomm_project\ecomm_project.DataAccess\bin\Debug\net10.0\ecomm_project.models.dll
+D:\asp.net core\ecomm_project\ecomm_project.DataAccess\bin\Debug\net10.0\ecomm_utility.dll
+D:\asp.net core\ecomm_project\ecomm_project.DataAccess\bin\Debug\net10.0\ecomm_project.models.pdb
+D:\asp.net core\ecomm_project\ecomm_project.DataAccess\bin\Debug\net10.0\ecomm_utility.pdb
+D:\asp.net core\ecomm_project\ecomm_project.DataAccess\obj\Debug\net10.0\ecomm_project.DataAccess.csproj.AssemblyReference.cache
+D:\asp.net core\ecomm_project\ecomm_project.DataAccess\obj\Debug\net10.0\ecomm_project.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net core\ecomm_project\ecomm_project.DataAccess\obj\Debug\net10.0\ecomm_project.DataAccess.AssemblyInfoInputs.cache
+D:\asp.net core\ecomm_project\ecomm_project.DataAccess\obj\Debug\net10.0\ecomm_project.DataAccess.AssemblyInfo.cs
+D:\asp.net core\ecomm_project\ecomm_project.DataAccess\obj\Debug\net10.0\ecomm_project.DataAccess.csproj.CoreCompileInputs.cache
+D:\asp.net core\ecomm_project\ecomm_project.DataAccess\obj\Debug\net10.0\ecomm_pr.3CA5E381.Up2Date
+D:\asp.net core\ecomm_project\ecomm_project.DataAccess\obj\Debug\net10.0\ecomm_project.DataAccess.dll
+D:\asp.net core\ecomm_project\ecomm_project.DataAccess\obj\Debug\net10.0\refint\ecomm_project.DataAccess.dll
+D:\asp.net core\ecomm_project\ecomm_project.DataAccess\obj\Debug\net10.0\ecomm_project.DataAccess.pdb
+D:\asp.net core\ecomm_project\ecomm_project.DataAccess\obj\Debug\net10.0\ecomm_project.DataAccess.genruntimeconfig.cache
+D:\asp.net core\ecomm_project\ecomm_project.DataAccess\obj\Debug\net10.0\ref\ecomm_project.DataAccess.dll
+D:\ecomm_project\ecomm_project.DataAccess\bin\Debug\net10.0\ecomm_project.DataAccess.deps.json
+D:\ecomm_project\ecomm_project.DataAccess\bin\Debug\net10.0\ecomm_project.DataAccess.runtimeconfig.json
+D:\ecomm_project\ecomm_project.DataAccess\bin\Debug\net10.0\ecomm_project.DataAccess.dll
+D:\ecomm_project\ecomm_project.DataAccess\bin\Debug\net10.0\ecomm_project.DataAccess.pdb
+D:\ecomm_project\ecomm_project.DataAccess\bin\Debug\net10.0\ecomm_project.models.dll
+D:\ecomm_project\ecomm_project.DataAccess\bin\Debug\net10.0\ecomm_utility.dll
+D:\ecomm_project\ecomm_project.DataAccess\bin\Debug\net10.0\ecomm_project.models.pdb
+D:\ecomm_project\ecomm_project.DataAccess\bin\Debug\net10.0\ecomm_utility.pdb
+D:\ecomm_project\ecomm_project.DataAccess\obj\Debug\net10.0\ecomm_project.DataAccess.csproj.AssemblyReference.cache
+D:\ecomm_project\ecomm_project.DataAccess\obj\Debug\net10.0\ecomm_project.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\ecomm_project\ecomm_project.DataAccess\obj\Debug\net10.0\ecomm_project.DataAccess.AssemblyInfoInputs.cache
+D:\ecomm_project\ecomm_project.DataAccess\obj\Debug\net10.0\ecomm_project.DataAccess.AssemblyInfo.cs
+D:\ecomm_project\ecomm_project.DataAccess\obj\Debug\net10.0\ecomm_project.DataAccess.csproj.CoreCompileInputs.cache
+D:\ecomm_project\ecomm_project.DataAccess\obj\Debug\net10.0\ecomm_project.DataAccess.sourcelink.json
+D:\ecomm_project\ecomm_project.DataAccess\obj\Debug\net10.0\ecomm_pr.3CA5E381.Up2Date
+D:\ecomm_project\ecomm_project.DataAccess\obj\Debug\net10.0\ecomm_project.DataAccess.dll
+D:\ecomm_project\ecomm_project.DataAccess\obj\Debug\net10.0\refint\ecomm_project.DataAccess.dll
+D:\ecomm_project\ecomm_project.DataAccess\obj\Debug\net10.0\ecomm_project.DataAccess.pdb
+D:\ecomm_project\ecomm_project.DataAccess\obj\Debug\net10.0\ecomm_project.DataAccess.genruntimeconfig.cache
+D:\ecomm_project\ecomm_project.DataAccess\obj\Debug\net10.0\ref\ecomm_project.DataAccess.dll
