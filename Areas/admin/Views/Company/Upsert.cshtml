@@ -1,0 +1,239 @@
+﻿@model ecomm_project.models.Company
+@{
+    var title = Model.id != 0 ? "Edit Company" : "New Company";
+    var subtitle = Model.id != 0 ? "Update the company details below." : "Fill in the details to register a new company.";
+}
+
+<style>
+    @@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&family=DM+Sans:wght@300;400;500&display=swap');
+
+    html, body { min-height: 100%; margin: 0; padding: 0; }
+
+    body {
+        font-family: 'DM Sans', sans-serif;
+        background: linear-gradient(135deg, #c8d8c0 0%, #d4c8a0 50%, #c8b890 100%) !important;
+        background-attachment: fixed !important;
+    }
+
+    .ups-page {
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 40px 16px;
+    }
+
+    .ups-card {
+        background: #ffffff;
+        border-radius: 16px;
+        padding: 48px 52px 44px;
+        width: 100%;
+        max-width: 580px;
+        box-shadow: 0 8px 40px rgba(0,0,0,0.10);
+    }
+
+    .ups-title {
+        font-family: 'Playfair Display', serif;
+        font-size: 2rem;
+        font-weight: 600;
+        color: #1a1a1a;
+        margin: 0 0 6px;
+        letter-spacing: -0.5px;
+    }
+
+    .ups-subtitle { font-size: 0.92rem; color: #888; margin: 0 0 28px; }
+
+    .ups-divider { border: none; border-top: 1px solid #e8e8e8; margin: 0 0 28px; }
+
+    .validation-summary {
+        background: #fff5f5;
+        border: 1px solid #fcc;
+        border-radius: 8px;
+        padding: 11px 16px;
+        margin-bottom: 20px;
+        color: #c0392b;
+        font-size: 0.86rem;
+    }
+
+    .form-group { margin-bottom: 20px; }
+
+    .form-label-text {
+        display: block;
+        font-size: 0.70rem;
+        font-weight: 500;
+        letter-spacing: 0.10em;
+        color: #555;
+        text-transform: uppercase;
+        margin-bottom: 7px;
+    }
+
+    .form-input {
+        width: 100%;
+        padding: 13px 15px;
+        font-family: 'DM Sans', sans-serif;
+        font-size: 0.95rem;
+        color: #1a1a1a;
+        background: #f7f7f5;
+        border: 1.5px solid #e0e0da;
+        border-radius: 10px;
+        outline: none;
+        transition: border-color 0.2s, box-shadow 0.2s;
+        box-sizing: border-box;
+    }
+
+    .form-input:focus {
+        border-color: #888;
+        background: #fff;
+        box-shadow: 0 0 0 3px rgba(100,100,100,0.07);
+    }
+
+    /* Two-column grid for city/state and postal/phone */
+    .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+
+    .text-danger-msg { color: #c0392b; font-size: 0.80rem; margin-top: 4px; display: block; }
+
+    /* Checkbox toggle row */
+    .checkbox-row {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        padding: 14px 16px;
+        background: #f7f7f5;
+        border: 1.5px solid #e0e0da;
+        border-radius: 10px;
+        cursor: pointer;
+        transition: border-color 0.2s;
+    }
+    .checkbox-row:hover { border-color: #888; }
+
+    .checkbox-row input[type="checkbox"] {
+        width: 18px;
+        height: 18px;
+        accent-color: #1a1a1a;
+        cursor: pointer;
+        flex-shrink: 0;
+    }
+
+    .checkbox-row label {
+        font-size: 0.93rem;
+        color: #444;
+        cursor: pointer;
+        user-select: none;
+        margin: 0;
+    }
+
+    /* Buttons */
+    .btn-row { display: flex; gap: 12px; margin-top: 30px; }
+
+    .btn-save {
+        flex: 1;
+        padding: 14px;
+        background: #1a1a1a;
+        color: #fff;
+        font-family: 'DM Sans', sans-serif;
+        font-size: 0.95rem;
+        font-weight: 500;
+        border: none;
+        border-radius: 50px;
+        cursor: pointer;
+        letter-spacing: 0.02em;
+        transition: background 0.2s, transform 0.1s;
+    }
+    .btn-save:hover { background: #333; }
+    .btn-save:active { transform: scale(0.99); }
+
+    .btn-back {
+        flex: 1;
+        padding: 14px;
+        background: transparent;
+        color: #555;
+        font-family: 'DM Sans', sans-serif;
+        font-size: 0.95rem;
+        font-weight: 500;
+        border: 1.5px solid #d0d0ca;
+        border-radius: 50px;
+        cursor: pointer;
+        text-decoration: none;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        letter-spacing: 0.01em;
+        transition: border-color 0.15s, background 0.15s, color 0.15s;
+    }
+    .btn-back:hover { border-color: #1a1a1a; color: #1a1a1a; background: #f4f4f0; text-decoration: none; }
+</style>
+
+<div class="ups-page">
+    <div class="ups-card">
+        <h1 class="ups-title">@title</h1>
+        <p class="ups-subtitle">@subtitle</p>
+        <hr class="ups-divider" />
+
+        <form method="post">
+            @if (Model.id != 0)
+            {
+                <input type="hidden" asp-for="id" />
+            }
+
+            <div asp-validation-summary="ModelOnly" class="validation-summary"></div>
+
+            <div class="form-group">
+                <label class="form-label-text" asp-for="name">Company Name</label>
+                <input asp-for="name" class="form-input" placeholder="Company name" />
+                <span asp-validation-for="name" class="text-danger-msg"></span>
+            </div>
+
+            <div class="form-group">
+                <label class="form-label-text" asp-for="streetaddress">Street Address</label>
+                <input asp-for="streetaddress" class="form-input" placeholder="Street address" />
+                <span asp-validation-for="streetaddress" class="text-danger-msg"></span>
+            </div>
+
+            <div class="two-col">
+                <div class="form-group">
+                    <label class="form-label-text" asp-for="city">City</label>
+                    <input asp-for="city" class="form-input" placeholder="City" />
+                    <span asp-validation-for="city" class="text-danger-msg"></span>
+                </div>
+                <div class="form-group">
+                    <label class="form-label-text" asp-for="state">State</label>
+                    <input asp-for="state" class="form-input" placeholder="State" />
+                    <span asp-validation-for="state" class="text-danger-msg"></span>
+                </div>
+            </div>
+
+            <div class="two-col">
+                <div class="form-group">
+                    <label class="form-label-text" asp-for="postalcode">Postal Code</label>
+                    <input asp-for="postalcode" class="form-input" placeholder="Postal code" />
+                    <span asp-validation-for="postalcode" class="text-danger-msg"></span>
+                </div>
+                <div class="form-group">
+                    <label class="form-label-text" asp-for="phonenumber">Phone Number</label>
+                    <input asp-for="phonenumber" class="form-input" placeholder="Phone number" />
+                    <span asp-validation-for="phonenumber" class="text-danger-msg"></span>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="form-label-text">Authorization</label>
+                <div class="checkbox-row">
+                    <input type="checkbox" asp-for="isauthorized" id="isauthorized" />
+                    <label for="isauthorized">This company is authorized</label>
+                </div>
+                <span asp-validation-for="isauthorized" class="text-danger-msg"></span>
+            </div>
+
+            <div class="btn-row">
+                @if (Model.id != 0)
+                {
+                    <partial name="EditAndBackToListButtons" />
+                }
+                else
+                {
+                    <partial name="CreateAndBackToListButtons" />
+                }
+            </div>
+        </form>
+    </div>
+</div>

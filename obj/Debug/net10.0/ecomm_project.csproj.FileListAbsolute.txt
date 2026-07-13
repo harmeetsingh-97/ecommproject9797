@@ -1,0 +1,1514 @@
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\appsettings.Development.json
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\appsettings.json
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ecomm_project.staticwebassets.runtime.json
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ecomm_project.staticwebassets.endpoints.json
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ecomm_project.exe
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ecomm_project.deps.json
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ecomm_project.runtimeconfig.json
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ecomm_project.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ecomm_project.pdb
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Authentication.BearerToken.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Components.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Components.Endpoints.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Http.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Session.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.StaticAssets.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.CSharp.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Configuration.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Diagnostics.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Features.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Hosting.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Http.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Localization.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Logging.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Options.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Primitives.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Validation.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.JSInterop.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Net.Http.Headers.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.VisualBasic.Core.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.VisualBasic.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Win32.Primitives.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Win32.Registry.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\mscorlib.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\netstandard.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.AppContext.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Buffers.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Collections.Concurrent.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Collections.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Collections.Immutable.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Collections.NonGeneric.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Collections.Specialized.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.ComponentModel.Annotations.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.ComponentModel.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.ComponentModel.Primitives.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.ComponentModel.TypeConverter.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Configuration.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Console.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Core.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Data.Common.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Data.DataSetExtensions.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Data.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Diagnostics.Contracts.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Diagnostics.Debug.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Diagnostics.EventLog.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Diagnostics.Process.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Diagnostics.StackTrace.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Diagnostics.Tools.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Diagnostics.TraceSource.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Diagnostics.Tracing.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Drawing.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Drawing.Primitives.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Dynamic.Runtime.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Formats.Asn1.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Formats.Cbor.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Formats.Tar.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Globalization.Calendars.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Globalization.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Globalization.Extensions.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.IO.Compression.Brotli.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.IO.Compression.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.IO.Compression.FileSystem.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.IO.Compression.ZipFile.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.IO.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.IO.FileSystem.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.IO.FileSystem.Primitives.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.IO.FileSystem.Watcher.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.IO.IsolatedStorage.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.IO.MemoryMappedFiles.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.IO.Pipelines.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.IO.Pipes.AccessControl.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.IO.Pipes.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Linq.AsyncEnumerable.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Linq.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Linq.Expressions.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Linq.Parallel.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Linq.Queryable.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Memory.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.Http.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.Http.Json.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.HttpListener.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.Mail.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.NameResolution.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.NetworkInformation.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.Ping.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.Primitives.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.Quic.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.Requests.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.Security.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.ServerSentEvents.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.ServicePoint.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.Sockets.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.WebClient.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.WebHeaderCollection.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.WebProxy.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.WebSockets.Client.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.WebSockets.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Numerics.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Numerics.Vectors.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.ObjectModel.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Reflection.DispatchProxy.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Reflection.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Reflection.Emit.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Reflection.Extensions.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Reflection.Metadata.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Reflection.Primitives.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Reflection.TypeExtensions.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Resources.Reader.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Resources.ResourceManager.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Resources.Writer.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Runtime.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Runtime.Extensions.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Runtime.Handles.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Runtime.InteropServices.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Runtime.InteropServices.JavaScript.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Runtime.Intrinsics.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Runtime.Loader.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Runtime.Numerics.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Runtime.Serialization.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Runtime.Serialization.Json.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Runtime.Serialization.Xml.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Security.AccessControl.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Security.Claims.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Security.Cryptography.Cng.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Security.Cryptography.Csp.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Security.Cryptography.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Security.Cryptography.Encoding.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Security.Cryptography.Primitives.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Security.Cryptography.Xml.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Security.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Security.Principal.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Security.Principal.Windows.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Security.SecureString.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.ServiceModel.Web.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.ServiceProcess.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Text.Encoding.CodePages.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Text.Encoding.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Text.Encoding.Extensions.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Text.Encodings.Web.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Text.Json.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Text.RegularExpressions.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Threading.AccessControl.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Threading.Channels.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Threading.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Threading.Overlapped.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Threading.RateLimiting.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Threading.Tasks.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Threading.Tasks.Extensions.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Threading.Tasks.Parallel.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Threading.Thread.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Threading.ThreadPool.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Threading.Timer.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Transactions.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Transactions.Local.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.ValueTuple.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Web.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Web.HttpUtility.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Windows.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Xml.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Xml.Linq.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Xml.ReaderWriter.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Xml.Serialization.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Xml.XDocument.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Xml.XmlDocument.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Xml.XmlSerializer.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Xml.XPath.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Xml.XPath.XDocument.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\WindowsBase.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\AspNet.Security.OAuth.GitHub.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\AspNet.Security.OAuth.LinkedIn.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Azure.Core.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Azure.Identity.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Humanizer.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.Twitter.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.Build.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.CodeAnalysis.Features.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.CodeAnalysis.Razor.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.Data.Sqlite.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.DiaSymReader.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.NET.StringTools.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\dotnet-aspnet-codegenerator-design.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Mono.TextTemplating.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\NuGet.Common.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\NuGet.Configuration.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\NuGet.DependencyResolver.Core.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\NuGet.Frameworks.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\NuGet.LibraryModel.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\NuGet.Packaging.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\NuGet.ProjectModel.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\NuGet.Protocol.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\NuGet.Versioning.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\BouncyCastle.Crypto.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Razorpay.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\SQLitePCLRaw.batteries_v2.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\SQLitePCLRaw.core.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Stripe.net.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\System.ClientModel.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\System.CodeDom.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\System.Composition.Convention.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\System.Composition.Hosting.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\System.Composition.Runtime.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\System.Composition.TypedParts.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\System.Memory.Data.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\System.Reflection.MetadataLoadContext.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Twilio.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Twilio.AspNet.Common.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Twilio.AspNet.Core.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\af\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ar\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\az\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\bg\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\bn-BD\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\cs\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\da\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\de\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\el\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\es\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\fa\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\fi-FI\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\fr\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\fr-BE\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\he\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\hr\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\hu\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\hy\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\id\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\is\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\it\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ja\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ko-KR\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ku\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\lv\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ms-MY\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\mt\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\nb\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\nb-NO\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\nl\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\pl\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\pt\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ro\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ru\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\sk\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\sl\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\sr\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\sr-Latn\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\sv\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\th-TH\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\tr\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\uk\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\vi\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-CN\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hans\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hant\Humanizer.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\linux-riscv64\native\libe_sqlite3.so
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ecomm_project.DataAccess.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ecomm_project.models.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ecomm_utility.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ecomm_project.DataAccess.pdb
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ecomm_project.models.pdb
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\ecomm_utility.pdb
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\ecomm_project.csproj.AssemblyReference.cache
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\ecomm_project.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\ecomm_project.AssemblyInfoInputs.cache
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\ecomm_project.AssemblyInfo.cs
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\ecomm_project.csproj.CoreCompileInputs.cache
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\ecomm_project.MvcApplicationPartsAssemblyInfo.cs
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\ecomm_project.MvcApplicationPartsAssemblyInfo.cache
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\ecomm_project.RazorAssemblyInfo.cache
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\ecomm_project.RazorAssemblyInfo.cs
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\scopedcss\bundle\ecomm_project.styles.css
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\scopedcss\projectbundle\ecomm_project.bundle.scp.css
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\ofa40bqe71-{0}-b9sayid5wm-b9sayid5wm.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\j9swiz3yzq-{0}-90yqlj465b-90yqlj465b.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\vltxs1u3vm-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\14ipv7q33s-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\rh65p086id-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\eb27mqwgz2-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\9glsckmvxo-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\hh8ihyobdx-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\bww8ud00yd-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\edcrak57d7-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\sf8kf2lula-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\3tzsqhslk9-{0}-ub07r2b239-ub07r2b239.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\oxk5o6czdw-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\k8b25g0zwc-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\8axix7wldr-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\d5z9sfpxbi-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\u8428c4e9i-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\tg53r17ghy-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\nlrl0f3xs3-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\1fc4q00scq-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\8xykfy6qmd-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\vsrbd71spn-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\cynp17w084-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\7o8oyvng68-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\h9vwtoirpy-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\o5k23vqhrk-{0}-06098lyss8-06098lyss8.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\iznc766avz-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\ns4583i71s-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\47012z8l2l-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\4vzefxwp2m-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\bh4v3mdph9-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\l186vlgaag-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\rsc7qacj1u-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\z408qb6q7a-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\qfr28sqcy1-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\0k1i85ntyh-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\xa379ftczi-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\lr5hmrr0j7-{0}-493y06b0oq-493y06b0oq.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\ivy2s9gwh5-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\higufxz8op-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\s3tglgz8hr-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\vw9sls9bhj-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\ym8tkpcl2i-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\zzna4nrm5w-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\igscs4x0yk-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\zap00c0tb5-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\pogzkicjpz-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\j3hwsq15kh-{0}-47otxtyo56-47otxtyo56.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\q3naettu8c-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\ldxy2n3w6q-{0}-356vix0kms-356vix0kms.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\ypthv7q62w-{0}-83jwlth58m-83jwlth58m.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\t6e3b82hrf-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\uocis9wxbx-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\2tikzqlmtu-{0}-ag7o75518u-ag7o75518u.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\9muusbdg0a-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\tpsq5dibur-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\t0qo7o574p-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\b9lhb08218-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\a3ygkwa5zy-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\nezrqnk58p-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\v0zgfp0y55-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\yfc7ypekbg-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\11kaz01e31-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\joel7139t8-{0}-e511p7uo4y-e511p7uo4y.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\ivmx1b9hcg-{0}-bwhkafxg84-bwhkafxg84.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\flw5b3chif-{0}-dopwit2ir1-dopwit2ir1.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\7bv1oz9bj8-{0}-e5vg1vunoo-e5vg1vunoo.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\f1sc7gznts-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\e2sinyn5y4-{0}-f216amflc4-f216amflc4.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\583hf6o0vk-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\plwoqhz558-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\q3kv2is0to-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\2t605ht1gd-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\by908o8xom-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\1ciqps3jxc-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\4y2fgjp93w-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\d4ou2cahy1-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\08ks61heyl-{0}-ub07r2b239-ub07r2b239.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\0bnfvmuv5j-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\g83gmsq2va-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\qf4n5o414r-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\3b6qwvbv0j-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\uw9xa92l31-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\4bjc7v3lxt-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\zybdqojqin-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\saq88n5sjb-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\hxsfyv84cy-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\4zl6d8mrvm-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\tyoq47ah2o-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\cq2ipv1o0u-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\hbap43jimz-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\3f9j9a1ycx-{0}-06098lyss8-06098lyss8.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\xxmrdp6a98-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\5pt5y5a0vy-{0}-5opgzgt4yu-5opgzgt4yu.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\n2myto0yxe-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\p4azc3upiv-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\b3srn2uf57-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\a7lvyf17my-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\baldayh3kc-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\n7n8wyuah2-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\tzx9k0nc4n-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\40ikudwxia-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\5rbxuroidi-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\90p6sg1pej-{0}-493y06b0oq-493y06b0oq.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\gh77hzfwyd-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\aa39mvd5qf-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\mfuq9adm37-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\1kgbzs63j0-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\0tt71e7rii-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\ijn7z2uhlh-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\br8qw6weuj-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\lh5t8u28i4-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\6rjzc6lofu-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\ha6er0ww9d-{0}-47otxtyo56-47otxtyo56.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\7lgg5epq7v-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\rdwblth1af-{0}-356vix0kms-356vix0kms.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\gwq7yaukrt-{0}-83jwlth58m-83jwlth58m.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\8n75zc3n08-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\btqqw8xj0b-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\zyjpq69y22-{0}-ag7o75518u-ag7o75518u.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\z14el7dbm2-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\gv3jyutpqy-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\4lpytwjebp-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\fppjjv25am-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\5g68mrftwx-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\itx1ta8isq-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\0gf1z5244e-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\psxw16r9es-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\390rbl3j1k-{0}-tds1tulz7s-tds1tulz7s.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\fbiiy6619r-{0}-tds1tulz7s-tds1tulz7s.gz
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\staticwebassets.build.json
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\staticwebassets.development.json
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\swae.build.ex.cache
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\ecomm_pr.9D622E1B.Up2Date
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\ecomm_project.dll
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\refint\ecomm_project.dll
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\ecomm_project.pdb
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\ecomm_project.genruntimeconfig.cache
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\ref\ecomm_project.dll
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\djr69edaar-{0}-6xeda5yvtg-6xeda5yvtg.gz
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\QRCoder.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\System.Drawing.Common.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\asp.net core\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\asp.net core\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\7vjib4dz6h-{0}-sijd0tjdc4-sijd0tjdc4.gz
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\appsettings.json
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ecomm_project.staticwebassets.runtime.json
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ecomm_project.staticwebassets.endpoints.json
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ecomm_project.exe
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ecomm_project.deps.json
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ecomm_project.runtimeconfig.json
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ecomm_project.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ecomm_project.pdb
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Authentication.BearerToken.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Components.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Components.Endpoints.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Http.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.Session.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.StaticAssets.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.CSharp.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Configuration.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Diagnostics.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Features.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Hosting.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Http.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Localization.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Logging.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Options.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Primitives.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.Validation.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.JSInterop.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Net.Http.Headers.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.VisualBasic.Core.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.VisualBasic.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Win32.Primitives.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\Microsoft.Win32.Registry.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\mscorlib.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\netstandard.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.AppContext.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Buffers.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Collections.Concurrent.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Collections.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Collections.Immutable.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Collections.NonGeneric.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Collections.Specialized.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.ComponentModel.Annotations.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.ComponentModel.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.ComponentModel.Primitives.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.ComponentModel.TypeConverter.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Configuration.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Console.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Core.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Data.Common.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Data.DataSetExtensions.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Data.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Diagnostics.Contracts.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Diagnostics.Debug.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Diagnostics.EventLog.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Diagnostics.Process.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Diagnostics.StackTrace.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Diagnostics.Tools.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Diagnostics.TraceSource.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Diagnostics.Tracing.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Drawing.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Drawing.Primitives.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Dynamic.Runtime.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Formats.Asn1.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Formats.Cbor.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Formats.Tar.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Globalization.Calendars.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Globalization.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Globalization.Extensions.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.IO.Compression.Brotli.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.IO.Compression.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.IO.Compression.FileSystem.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.IO.Compression.ZipFile.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.IO.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.IO.FileSystem.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.IO.FileSystem.Primitives.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.IO.FileSystem.Watcher.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.IO.IsolatedStorage.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.IO.MemoryMappedFiles.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.IO.Pipelines.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.IO.Pipes.AccessControl.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.IO.Pipes.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Linq.AsyncEnumerable.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Linq.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Linq.Expressions.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Linq.Parallel.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Linq.Queryable.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Memory.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.Http.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.Http.Json.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.HttpListener.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.Mail.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.NameResolution.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.NetworkInformation.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.Ping.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.Primitives.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.Quic.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.Requests.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.Security.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.ServerSentEvents.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.ServicePoint.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.Sockets.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.WebClient.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.WebHeaderCollection.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.WebProxy.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.WebSockets.Client.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Net.WebSockets.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Numerics.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Numerics.Vectors.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.ObjectModel.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Reflection.DispatchProxy.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Reflection.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Reflection.Emit.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Reflection.Extensions.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Reflection.Metadata.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Reflection.Primitives.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Reflection.TypeExtensions.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Resources.Reader.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Resources.ResourceManager.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Resources.Writer.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Runtime.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Runtime.Extensions.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Runtime.Handles.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Runtime.InteropServices.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Runtime.InteropServices.JavaScript.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Runtime.Intrinsics.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Runtime.Loader.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Runtime.Numerics.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Runtime.Serialization.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Runtime.Serialization.Json.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Runtime.Serialization.Xml.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Security.AccessControl.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Security.Claims.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Security.Cryptography.Cng.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Security.Cryptography.Csp.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Security.Cryptography.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Security.Cryptography.Encoding.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Security.Cryptography.Primitives.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Security.Cryptography.Xml.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Security.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Security.Principal.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Security.Principal.Windows.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Security.SecureString.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.ServiceModel.Web.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.ServiceProcess.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Text.Encoding.CodePages.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Text.Encoding.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Text.Encoding.Extensions.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Text.Encodings.Web.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Text.Json.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Text.RegularExpressions.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Threading.AccessControl.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Threading.Channels.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Threading.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Threading.Overlapped.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Threading.RateLimiting.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Threading.Tasks.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Threading.Tasks.Extensions.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Threading.Tasks.Parallel.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Threading.Thread.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Threading.ThreadPool.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Threading.Timer.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Transactions.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Transactions.Local.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.ValueTuple.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Web.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Web.HttpUtility.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Windows.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Xml.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Xml.Linq.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Xml.ReaderWriter.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Xml.Serialization.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Xml.XDocument.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Xml.XmlDocument.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Xml.XmlSerializer.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Xml.XPath.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\System.Xml.XPath.XDocument.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\refs\WindowsBase.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\AspNet.Security.OAuth.GitHub.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\AspNet.Security.OAuth.LinkedIn.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Azure.Core.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Azure.Identity.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Humanizer.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.Twitter.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.Build.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.CodeAnalysis.Features.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.DiaSymReader.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.NET.StringTools.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\dotnet-aspnet-codegenerator-design.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Mono.TextTemplating.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\NuGet.Common.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\NuGet.Configuration.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\NuGet.DependencyResolver.Core.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\NuGet.Frameworks.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\NuGet.LibraryModel.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\NuGet.Packaging.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\NuGet.ProjectModel.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\NuGet.Protocol.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\NuGet.Versioning.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\BouncyCastle.Crypto.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\QRCoder.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Razorpay.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Stripe.net.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\System.ClientModel.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\System.CodeDom.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\System.Composition.Convention.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\System.Composition.Hosting.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\System.Composition.Runtime.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\System.Composition.TypedParts.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\System.Drawing.Common.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\System.Memory.Data.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\System.Reflection.MetadataLoadContext.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Twilio.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Twilio.AspNet.Common.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\Twilio.AspNet.Core.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\af\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ar\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\az\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\bg\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\bn-BD\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\cs\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\da\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\de\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\el\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\es\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\fa\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\fi-FI\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\fr\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\fr-BE\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\he\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\hr\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\hu\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\hy\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\id\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\is\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\it\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ja\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ko-KR\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ku\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\lv\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ms-MY\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\mt\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\nb\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\nb-NO\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\nl\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\pl\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\pt\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ro\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ru\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\sk\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\sl\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\sr\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\sr-Latn\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\sv\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\th-TH\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\tr\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\uk\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\vi\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-CN\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hans\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hant\Humanizer.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ecomm_project.DataAccess.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ecomm_project.models.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ecomm_utility.dll
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ecomm_project.DataAccess.pdb
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ecomm_project.models.pdb
+D:\ecomm_project\ecomm_project\bin\Debug\net10.0\ecomm_utility.pdb
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\ecomm_project.csproj.AssemblyReference.cache
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\ecomm_project.GeneratedMSBuildEditorConfig.editorconfig
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\ecomm_project.AssemblyInfoInputs.cache
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\ecomm_project.AssemblyInfo.cs
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\ecomm_project.csproj.CoreCompileInputs.cache
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\ecomm_project.MvcApplicationPartsAssemblyInfo.cs
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\ecomm_project.MvcApplicationPartsAssemblyInfo.cache
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\ecomm_project.RazorAssemblyInfo.cache
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\ecomm_project.RazorAssemblyInfo.cs
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\ecomm_project.sourcelink.json
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\scopedcss\bundle\ecomm_project.styles.css
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\scopedcss\projectbundle\ecomm_project.bundle.scp.css
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\ofa40bqe71-{0}-b9sayid5wm-b9sayid5wm.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\j9swiz3yzq-{0}-90yqlj465b-90yqlj465b.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\vltxs1u3vm-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\14ipv7q33s-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\rh65p086id-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\eb27mqwgz2-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\9glsckmvxo-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\hh8ihyobdx-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\bww8ud00yd-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\edcrak57d7-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\sf8kf2lula-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\3tzsqhslk9-{0}-ub07r2b239-ub07r2b239.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\oxk5o6czdw-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\k8b25g0zwc-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\8axix7wldr-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\d5z9sfpxbi-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\u8428c4e9i-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\tg53r17ghy-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\nlrl0f3xs3-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\1fc4q00scq-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\8xykfy6qmd-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\vsrbd71spn-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\cynp17w084-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\7o8oyvng68-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\h9vwtoirpy-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\o5k23vqhrk-{0}-06098lyss8-06098lyss8.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\iznc766avz-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\ns4583i71s-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\47012z8l2l-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\4vzefxwp2m-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\bh4v3mdph9-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\l186vlgaag-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\rsc7qacj1u-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\z408qb6q7a-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\qfr28sqcy1-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\0k1i85ntyh-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\xa379ftczi-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\lr5hmrr0j7-{0}-493y06b0oq-493y06b0oq.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\ivy2s9gwh5-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\higufxz8op-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\s3tglgz8hr-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\vw9sls9bhj-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\ym8tkpcl2i-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\zzna4nrm5w-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\igscs4x0yk-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\zap00c0tb5-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\pogzkicjpz-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\j3hwsq15kh-{0}-47otxtyo56-47otxtyo56.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\q3naettu8c-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\ldxy2n3w6q-{0}-356vix0kms-356vix0kms.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\ypthv7q62w-{0}-83jwlth58m-83jwlth58m.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\t6e3b82hrf-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\uocis9wxbx-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\2tikzqlmtu-{0}-ag7o75518u-ag7o75518u.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\9muusbdg0a-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\tpsq5dibur-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\t0qo7o574p-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\b9lhb08218-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\a3ygkwa5zy-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\nezrqnk58p-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\v0zgfp0y55-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\yfc7ypekbg-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\7vjib4dz6h-{0}-sijd0tjdc4-sijd0tjdc4.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\11kaz01e31-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\djr69edaar-{0}-6xeda5yvtg-6xeda5yvtg.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\joel7139t8-{0}-e511p7uo4y-e511p7uo4y.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\ivmx1b9hcg-{0}-bwhkafxg84-bwhkafxg84.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\flw5b3chif-{0}-dopwit2ir1-dopwit2ir1.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\7bv1oz9bj8-{0}-e5vg1vunoo-e5vg1vunoo.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\f1sc7gznts-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\e2sinyn5y4-{0}-f216amflc4-f216amflc4.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\583hf6o0vk-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\plwoqhz558-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\q3kv2is0to-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\2t605ht1gd-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\by908o8xom-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\1ciqps3jxc-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\4y2fgjp93w-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\d4ou2cahy1-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\08ks61heyl-{0}-ub07r2b239-ub07r2b239.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\0bnfvmuv5j-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\g83gmsq2va-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\qf4n5o414r-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\3b6qwvbv0j-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\uw9xa92l31-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\4bjc7v3lxt-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\zybdqojqin-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\saq88n5sjb-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\hxsfyv84cy-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\4zl6d8mrvm-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\tyoq47ah2o-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\cq2ipv1o0u-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\hbap43jimz-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\3f9j9a1ycx-{0}-06098lyss8-06098lyss8.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\xxmrdp6a98-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\5pt5y5a0vy-{0}-5opgzgt4yu-5opgzgt4yu.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\n2myto0yxe-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\p4azc3upiv-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\b3srn2uf57-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\a7lvyf17my-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\baldayh3kc-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\n7n8wyuah2-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\tzx9k0nc4n-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\40ikudwxia-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\5rbxuroidi-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\90p6sg1pej-{0}-493y06b0oq-493y06b0oq.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\gh77hzfwyd-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\aa39mvd5qf-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\mfuq9adm37-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\1kgbzs63j0-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\0tt71e7rii-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\ijn7z2uhlh-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\br8qw6weuj-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\lh5t8u28i4-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\6rjzc6lofu-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\ha6er0ww9d-{0}-47otxtyo56-47otxtyo56.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\7lgg5epq7v-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\rdwblth1af-{0}-356vix0kms-356vix0kms.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\gwq7yaukrt-{0}-83jwlth58m-83jwlth58m.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\8n75zc3n08-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\btqqw8xj0b-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\zyjpq69y22-{0}-ag7o75518u-ag7o75518u.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\z14el7dbm2-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\gv3jyutpqy-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\4lpytwjebp-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\fppjjv25am-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\5g68mrftwx-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\itx1ta8isq-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\0gf1z5244e-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\psxw16r9es-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\390rbl3j1k-{0}-tds1tulz7s-tds1tulz7s.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\compressed\fbiiy6619r-{0}-tds1tulz7s-tds1tulz7s.gz
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\staticwebassets.build.json
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\staticwebassets.development.json
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\swae.build.ex.cache
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\ecomm_pr.9D622E1B.Up2Date
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\ecomm_project.dll
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\refint\ecomm_project.dll
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\ecomm_project.pdb
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\ecomm_project.genruntimeconfig.cache
+D:\ecomm_project\ecomm_project\obj\Debug\net10.0\ref\ecomm_project.dll
