@@ -40,6 +40,7 @@ string googleClientSecret = Environment.GetEnvironmentVariable("GOOGLE_CLIENT_SE
 string linkedInClientSecret = Environment.GetEnvironmentVariable("LINKEDIN_CLIENT_SECRET");
 string GitHubClientSecret = Environment.GetEnvironmentVariable("GitHub_CLIENT_SECRET");
 string FacebookClientSecret = Environment.GetEnvironmentVariable("Facebook_CLIENT_SECRET");
+string stripeSecret = Environment.GetEnvironmentVariable("STRIPE_SECRET_KEY");
 
 
 
