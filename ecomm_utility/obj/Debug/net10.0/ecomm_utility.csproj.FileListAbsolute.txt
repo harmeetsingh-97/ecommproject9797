@@ -1,0 +1,25 @@
+D:\asp.net core\ecomm_project\ecomm_utility\bin\Debug\net10.0\ecomm_utility.deps.json
+D:\asp.net core\ecomm_project\ecomm_utility\bin\Debug\net10.0\ecomm_utility.dll
+D:\asp.net core\ecomm_project\ecomm_utility\bin\Debug\net10.0\ecomm_utility.pdb
+D:\asp.net core\ecomm_project\ecomm_utility\obj\Debug\net10.0\ecomm_utility.csproj.AssemblyReference.cache
+D:\asp.net core\ecomm_project\ecomm_utility\obj\Debug\net10.0\ecomm_utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net core\ecomm_project\ecomm_utility\obj\Debug\net10.0\ecomm_utility.AssemblyInfoInputs.cache
+D:\asp.net core\ecomm_project\ecomm_utility\obj\Debug\net10.0\ecomm_utility.AssemblyInfo.cs
+D:\asp.net core\ecomm_project\ecomm_utility\obj\Debug\net10.0\ecomm_utility.csproj.CoreCompileInputs.cache
+D:\asp.net core\ecomm_project\ecomm_utility\obj\Debug\net10.0\ecomm_utility.dll
+D:\asp.net core\ecomm_project\ecomm_utility\obj\Debug\net10.0\refint\ecomm_utility.dll
+D:\asp.net core\ecomm_project\ecomm_utility\obj\Debug\net10.0\ecomm_utility.pdb
+D:\asp.net core\ecomm_project\ecomm_utility\obj\Debug\net10.0\ref\ecomm_utility.dll
+D:\ecomm_project\ecomm_utility\bin\Debug\net10.0\ecomm_utility.deps.json
+D:\ecomm_project\ecomm_utility\bin\Debug\net10.0\ecomm_utility.dll
+D:\ecomm_project\ecomm_utility\bin\Debug\net10.0\ecomm_utility.pdb
+D:\ecomm_project\ecomm_utility\obj\Debug\net10.0\ecomm_utility.csproj.AssemblyReference.cache
+D:\ecomm_project\ecomm_utility\obj\Debug\net10.0\ecomm_utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\ecomm_project\ecomm_utility\obj\Debug\net10.0\ecomm_utility.AssemblyInfoInputs.cache
+D:\ecomm_project\ecomm_utility\obj\Debug\net10.0\ecomm_utility.AssemblyInfo.cs
+D:\ecomm_project\ecomm_utility\obj\Debug\net10.0\ecomm_utility.csproj.CoreCompileInputs.cache
+D:\ecomm_project\ecomm_utility\obj\Debug\net10.0\ecomm_utility.sourcelink.json
+D:\ecomm_project\ecomm_utility\obj\Debug\net10.0\ecomm_utility.dll
+D:\ecomm_project\ecomm_utility\obj\Debug\net10.0\refint\ecomm_utility.dll
+D:\ecomm_project\ecomm_utility\obj\Debug\net10.0\ecomm_utility.pdb
+D:\ecomm_project\ecomm_utility\obj\Debug\net10.0\ref\ecomm_utility.dll

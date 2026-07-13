@@ -1,0 +1,29 @@
+D:\asp.net core\ecomm_project\ecomm_project.models\bin\Debug\net10.0\ecomm_project.models.deps.json
+D:\asp.net core\ecomm_project\ecomm_project.models\bin\Debug\net10.0\ecomm_project.models.runtimeconfig.json
+D:\asp.net core\ecomm_project\ecomm_project.models\bin\Debug\net10.0\ecomm_project.models.dll
+D:\asp.net core\ecomm_project\ecomm_project.models\bin\Debug\net10.0\ecomm_project.models.pdb
+D:\asp.net core\ecomm_project\ecomm_project.models\obj\Debug\net10.0\ecomm_project.models.csproj.AssemblyReference.cache
+D:\asp.net core\ecomm_project\ecomm_project.models\obj\Debug\net10.0\ecomm_project.models.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net core\ecomm_project\ecomm_project.models\obj\Debug\net10.0\ecomm_project.models.AssemblyInfoInputs.cache
+D:\asp.net core\ecomm_project\ecomm_project.models\obj\Debug\net10.0\ecomm_project.models.AssemblyInfo.cs
+D:\asp.net core\ecomm_project\ecomm_project.models\obj\Debug\net10.0\ecomm_project.models.csproj.CoreCompileInputs.cache
+D:\asp.net core\ecomm_project\ecomm_project.models\obj\Debug\net10.0\ecomm_project.models.dll
+D:\asp.net core\ecomm_project\ecomm_project.models\obj\Debug\net10.0\refint\ecomm_project.models.dll
+D:\asp.net core\ecomm_project\ecomm_project.models\obj\Debug\net10.0\ecomm_project.models.pdb
+D:\asp.net core\ecomm_project\ecomm_project.models\obj\Debug\net10.0\ecomm_project.models.genruntimeconfig.cache
+D:\asp.net core\ecomm_project\ecomm_project.models\obj\Debug\net10.0\ref\ecomm_project.models.dll
+D:\ecomm_project\ecomm_project.models\bin\Debug\net10.0\ecomm_project.models.deps.json
+D:\ecomm_project\ecomm_project.models\bin\Debug\net10.0\ecomm_project.models.runtimeconfig.json
+D:\ecomm_project\ecomm_project.models\bin\Debug\net10.0\ecomm_project.models.dll
+D:\ecomm_project\ecomm_project.models\bin\Debug\net10.0\ecomm_project.models.pdb
+D:\ecomm_project\ecomm_project.models\obj\Debug\net10.0\ecomm_project.models.csproj.AssemblyReference.cache
+D:\ecomm_project\ecomm_project.models\obj\Debug\net10.0\ecomm_project.models.GeneratedMSBuildEditorConfig.editorconfig
+D:\ecomm_project\ecomm_project.models\obj\Debug\net10.0\ecomm_project.models.AssemblyInfoInputs.cache
+D:\ecomm_project\ecomm_project.models\obj\Debug\net10.0\ecomm_project.models.AssemblyInfo.cs
+D:\ecomm_project\ecomm_project.models\obj\Debug\net10.0\ecomm_project.models.csproj.CoreCompileInputs.cache
+D:\ecomm_project\ecomm_project.models\obj\Debug\net10.0\ecomm_project.models.sourcelink.json
+D:\ecomm_project\ecomm_project.models\obj\Debug\net10.0\ecomm_project.models.dll
+D:\ecomm_project\ecomm_project.models\obj\Debug\net10.0\refint\ecomm_project.models.dll
+D:\ecomm_project\ecomm_project.models\obj\Debug\net10.0\ecomm_project.models.pdb
+D:\ecomm_project\ecomm_project.models\obj\Debug\net10.0\ecomm_project.models.genruntimeconfig.cache
+D:\ecomm_project\ecomm_project.models\obj\Debug\net10.0\ref\ecomm_project.models.dll
